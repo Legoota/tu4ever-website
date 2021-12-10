@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
-    "build": "svelte-kit build && echo > ./build/.nojekyll",
+    "build": "svelte-kit build && echo > ./build/.nojekyll && echo www.tu4ever.fr > ./build/CNAME",
     "package": "svelte-kit package",
     "preview": "svelte-kit preview",
     "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
