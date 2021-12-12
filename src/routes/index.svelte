@@ -1,4 +1,7 @@
 <script context="module">
+	import Peugeot from "$lib/Peugeot/Peugeot.svelte";
+	import { Styles } from 'sveltestrap';
+
 	export const prerender = true;
 </script>
 
@@ -9,7 +12,11 @@
 <section>
 	<h1>Page en construction !</h1>
 
-	<img class="logo" src="logo.svg" alt="Welcome" />
+	<object width="700" height="700" class="" data="logo.svg" title="Logo" type="image/svg+xml">
+		Logo TU4EVER
+	</object>
+
+	<Peugeot/>
 
 </section>
 
@@ -20,18 +27,6 @@
 		justify-content: center;
 		align-items: center;
 		flex: 1;
-	}
-
-	.logo {
-		width: 75%;
-		height: 75%;
-    	-webkit-user-select: none;
-       	-moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-	}
-	.logo::selection {
-		background: none;
 	}
 
 </style>

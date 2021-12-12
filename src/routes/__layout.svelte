@@ -30,12 +30,12 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 40px;
+		padding: 30px;
 	}
 
 	@media (min-width: 480px) {
 		footer {
-			padding: 40px 0;
+			padding: 30px 0;
 		}
 	}
 </style>
