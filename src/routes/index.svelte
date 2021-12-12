@@ -1,4 +1,6 @@
 <script context="module">
+import Peugeot from "$lib/Peugeot/Peugeot.svelte";
+
 	export const prerender = true;
 </script>
 
@@ -10,6 +12,8 @@
 	<h1>Page en construction !</h1>
 
 	<img class="logo" src="logo.svg" alt="Welcome" />
+
+	<Peugeot/>
 
 </section>
 

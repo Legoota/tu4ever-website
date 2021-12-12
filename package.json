@@ -25,6 +25,8 @@
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",
+    "babylonjs": "^4.2.0",
+    "babylonjs-loaders": "^4.2.0",
     "cookie": "^0.4.1",
     "gh-pages": "^3.2.3"
   }
