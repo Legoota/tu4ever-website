@@ -16,7 +16,7 @@
 		Logo TU4EVER
 	</object>
 
-	<Peugeot/>
+	<!--<Peugeot/>-->
 
 </section>
 

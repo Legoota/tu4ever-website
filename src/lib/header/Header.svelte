@@ -1,14 +1,9 @@
 <script>
 	import { page } from '$app/stores';
-	import logo from '/favicon-white.png';
 </script>
 
 <header>
-	<div class="corner">
-		<a href="https://tu4ever.fr">
-			<img src={logo} alt="Logo TU4EVER" />
-		</a>
-	</div>
+	<div class="corner"></div>
 
 	<nav>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -16,9 +11,9 @@
 		</svg>
 		<ul>
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Accueil</a></li>
-			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/presentation">Présentation</a></li>
-			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/articles">Articles</a></li>
-			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/partenariats">Partenariats</a></li>
+			<li class:active={$page.path === '/presentation'}><a sveltekit:prefetch href="/presentation">Présentation</a></li>
+			<li class:active={$page.path === '/articles'}><a sveltekit:prefetch href="/articles">Articles</a></li>
+			<li class:active={$page.path === '/partenariats'}><a sveltekit:prefetch href="/partenariats">Partenariats</a></li>
 			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/about">A propos</a></li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -26,34 +21,13 @@
 		</svg>
 	</nav>
 
-	<div class="corner">
-		<!-- TODO put something else here? github link? -->
-	</div>
+	<div class="corner"></div>
 </header>
 
 <style>
 	header {
 		display: flex;
 		justify-content: space-between;
-	}
-
-	.corner {
-		width: 3em;
-		height: 3em;
-	}
-
-	.corner a {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 100%;
-		height: 100%;
-	}
-
-	.corner img {
-		width: 2em;
-		height: 2em;
-		object-fit: contain;
 	}
 
 	nav {

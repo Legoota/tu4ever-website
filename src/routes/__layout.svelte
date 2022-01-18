@@ -1,6 +1,7 @@
 <script>
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
+	import Footer from "$lib/Footer.svelte"
 </script>
 
 <Header />
@@ -9,9 +10,8 @@
 	<slot />
 </main>
 
-<footer>
-	Made by the TU4EVER team
-</footer>
+<div class="spacer"></div>
+<Footer />
 
 <style>
 	main {
@@ -38,4 +38,7 @@
 			padding: 30px 0;
 		}
 	}
+	:global(.spacer) {
+    	flex: 1;
+  	}
 </style>
