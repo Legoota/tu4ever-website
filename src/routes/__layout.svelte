@@ -1,7 +1,7 @@
 <script>
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
-	import Footer from "$lib/Footer.svelte"
+	import Footer from "$lib/Footer.svelte";
 </script>
 
 <Header />
@@ -25,19 +25,6 @@
 		box-sizing: border-box;
 	}
 
-	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 30px;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 30px 0;
-		}
-	}
 	:global(.spacer) {
     	flex: 1;
   	}

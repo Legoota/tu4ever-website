@@ -1,9 +1,15 @@
+<script>
+  import Instagram from "svelte-bootstrap-icons/lib/Instagram";
+  import Twitter from "svelte-bootstrap-icons/lib/Twitter";
+  import Envelope from "svelte-bootstrap-icons/lib/Envelope";
+</script>
+
 <footer class="divider">
   <div class="separator"></div>
   <div>
-    <a target="_blank" class="link" href="https://www.instagram.com/tu4ever_205/">Instagram</a>
-    <a target="_blank" class="link" href="https://twitter.com/tu4ever_205">Twitter</a>
-    <a class="link" href="mailto:contact@tu4ever.fr">Mail</a>
+    <a target="_blank" class="link" href="https://www.instagram.com/tu4ever_205/"><Instagram /> Instagram</a>
+    <a target="_blank" class="link" href="https://twitter.com/tu4ever_205"><Twitter /> Twitter</a>
+    <a class="link" href="mailto:contact@tu4ever.fr"><Envelope /> Mail</a>
   </div>
 </footer>
 

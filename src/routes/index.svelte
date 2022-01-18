@@ -1,9 +1,9 @@
 <script context="module">
 	import Peugeot from "$lib/Peugeot/Peugeot.svelte";
-	import { Styles } from 'sveltestrap';
 
 	export const prerender = true;
 </script>
+
 
 <svelte:head>
 	<title>TU4EVER</title>
