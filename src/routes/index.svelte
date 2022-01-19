@@ -1,7 +1,8 @@
 <script context="module">
 	import Peugeot from "$lib/Peugeot/Peugeot.svelte";
-
+	//import { Toast } from '$lib/bootstrap/bootstrap.esm.min.js';
 	export const prerender = true;
+
 </script>
 
 
@@ -19,7 +20,6 @@
 	<!--<Peugeot/>-->
 
 </section>
-
 <style>
 	section {
 		display: flex;
