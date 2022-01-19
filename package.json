@@ -29,6 +29,7 @@
     "babylonjs-loaders": "^4.2.0",
     "cookie": "^0.4.1",
     "gh-pages": "^3.2.3",
-    "svelte-bootstrap-icons": "^1.7.2"
+    "svelte-bootstrap-icons": "^1.7.2",
+    "svelte-device-detector": "^0.2.2"
   }
 }

@@ -1,27 +1,43 @@
 <script>
 	import { page } from '$app/stores';
+	import DeviceDetector from "svelte-device-detector";
 </script>
 
 <header>
-	<div class="corner"></div>
+	<DeviceDetector showInDevice="desktop">
+		<div class="corner"></div>
 
-	<nav>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
-		</svg>
-		<ul>
-			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Accueil</a></li>
-			<li class:active={$page.path === '/presentation'}><a sveltekit:prefetch href="/presentation">Présentation</a></li>
-			<li class:active={$page.path === '/articles'}><a sveltekit:prefetch href="/articles">Articles</a></li>
-			<li class:active={$page.path === '/partenariats'}><a sveltekit:prefetch href="/partenariats">Partenariats</a></li>
-			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/about">A propos</a></li>
-		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-		</svg>
-	</nav>
+		<nav role="navigation">
+			<svg viewBox="0 0 2 3" aria-hidden="true">
+				<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
+			</svg>
+			<ul>
+				<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Accueil</a></li>
+				<li class:active={$page.path === '/presentation'}><a sveltekit:prefetch href="/presentation">Présentation</a></li>
+				<li class:active={$page.path === '/articles'}><a sveltekit:prefetch href="/articles">Articles</a></li>
+				<li class:active={$page.path === '/partenariats'}><a sveltekit:prefetch href="/partenariats">Partenariats</a></li>
+				<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/about">A propos</a></li>
+			</ul>
+			<svg viewBox="0 0 2 3" aria-hidden="true">
+				<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
+			</svg>
+		</nav>
 
-	<div class="corner"></div>
+		<div class="corner"></div>
+	</DeviceDetector>
+	
+	<DeviceDetector showInDevice="mobile">
+		<nav role="navigation" class="navbar-mobile">
+			<ul>
+				<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Accueil</a></li>
+				<li class:active={$page.path === '/presentation'}><a sveltekit:prefetch href="/presentation">Présentation</a></li>
+				<li class:active={$page.path === '/articles'}><a sveltekit:prefetch href="/articles">Articles</a></li>
+				<li class:active={$page.path === '/partenariats'}><a sveltekit:prefetch href="/partenariats">Partenariats</a></li>
+				<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/about">A propos</a></li>
+			</ul>
+		</nav>
+	</DeviceDetector>
+
 </header>
 
 <style>
@@ -91,5 +107,10 @@
 
 	a:hover {
 		color: var(--accent-color);
+	}
+
+	.navbar-mobile {
+		overflow: auto;
+		padding-left: 6em;
 	}
 </style>
