@@ -17,8 +17,15 @@
 				<img src="logo-white.png" class="img-fluid img-fit" alt="TU4EVER">
 			</div>
 			<div class="col align-self-center">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus exercitationem laborum molestias culpa aut provident recusandae ad repellat autem! Sequi iusto aut corporis labore molestias placeat voluptatem necessitatibus voluptates maiores?
-				Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus, maiores perspiciatis perferendis quae enim libero quibusdam. Nesciunt beatae sed reprehenderit assumenda recusandae veniam aspernatur velit, ipsa laboriosam cum quia ipsum!
+				<p class="paragraphe">
+					TU4EVER est une équipe composée de deux personnes qui a pour objectif la préparation et la participation à des raids en Peugeot 205.
+					<br/>
+					L'équipe a été fondée en 2021 et s'engagera cette année dans l'aventure Alpinaraid du 3 au 8 juillet 2022 avant de poursuivre vers d'autres raids à vocation humanitaire les années suivantes.
+					<br/>
+					&nbsp;
+					<br/>
+					L'origine du nom TU4EVER provient du code moteur <strong>TU</strong> équipant un grand nombre de véhicules des marques Peugeot et Citroën (PSA), y compris notre Peugeot 205 1,4L.
+				</p>
 			</div>
 		</div>
 	</div>
@@ -27,8 +34,20 @@
 	<div class="container">
 		<div class="row">
 			<div class="col align-self-center">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem maxime cupiditate atque omnis eos nesciunt ut voluptate dolore, dolor, sequi suscipit fuga rerum voluptas ipsum ipsam fugit, cumque ad doloribus?
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla necessitatibus dolores, accusantium aperiam delectus fuga repudiandae, quos voluptas aut voluptatum eligendi minus unde porro laboriosam voluptatem hic labore dolore dicta.
+				<p class="paragraphe">
+					Vous trouverez sur ce site différentes pages :	
+				</p>
+				<ul>
+					<li>
+						Une <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
+					</li>
+					<li>
+						Une page <a sveltekit:prefetch href="/articles">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.
+					</li>
+					<li>
+						Un espace <a sveltekit:prefetch href="/partenariats">Partenariats</a> dédié aux sponsors de l'aventure.
+					</li>
+				</ul>
 			</div>
 			<div class="col">
 				<img src="images/alps.jpg" class="img-fluid img-fit" alt="Car">
@@ -51,6 +70,10 @@
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
+		color: white;
+	}
+
+	.paragraphe {
 		color: white;
 	}
 
