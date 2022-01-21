@@ -103,3 +103,5 @@ button:focus:not(:focus-visible) {
 footer {
 	color: var(--secondary-color);
 }
+
+html { margin-left: calc(100vw - 100%); }
