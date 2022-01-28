@@ -12,7 +12,7 @@
 	--accent-color: #ffa600;
 	--heading-color: rgba(0, 0, 0, 0.7);
 	--background: #383838;
-	--column-width: 42rem;
+	--column-width: 70rem;
 	--column-margin-top: 4rem;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 1px;
 	height: 5px;
 }
 
