@@ -57,7 +57,7 @@
 					</p>
 					<ul>
 						<li>
-							Une <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
+							Une page de <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
 						</li>
 						<li>
 							Une page <a sveltekit:prefetch href="/articles">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.
@@ -79,7 +79,7 @@
 				</p>
 				<ul>
 					<li>
-						Une <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
+						Une page de <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
 					</li>
 					<li>
 						Une page <a sveltekit:prefetch href="/articles">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.

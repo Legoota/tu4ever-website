@@ -10,50 +10,33 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Présentation</h1>
+	<h1>L'association</h1>
 
 	<p class="paragraphe">
-		Nous sommes les deux membres de l'association TU4EVER, qui a pour objectif la préparation et la participation à des raids automobiles en Peugeot 205.
+		Nous avons décidé de fonder l'association TU4EVER suite à une envie commune de découvrir le monde de la mécanique automobile et de participer à des raids.
+        Notre premier objectif est la participation à l'Alpinaraid et nous envisageons les années suivantes de pousuivre sur d'autres raids à vocation humanitaire.
 	</p>
-	<br/>
-
-    <h1>A propos du site</h1>
+    <br/>
+    <h1>Le projet</h1>
 
 	<p class="paragraphe">
-		Ce site est entièrement réalisé par les membres de l'équipe, en guise de projet personnel. Etant ingénieurs en informatique, nous avons trouvé logique de réaliser nous même notre propre support de communication.
+		Pour réaliser cet objectif, nous nous sommes lancés dans le projet TU4EVER afin d'acquérir une voiture, de la restaurer et de la préparer par nos soins.
+        Nous avons donc acheté une Peugeot 205 Génération de 1997, motorisée par l'emblématique bloc TU3M de PSA.
 	</p>
+
     <p class="paragraphe">
-        Afin de réaliser ce site, nous avons utilisé le framework <a target="_blank" href="https://kit.svelte.dev/">Svelte.js</a>, et nous l'hébergeons sur Github Pages.
+        Pour participer à l'Alpinaraid, notre voiture doit passer un certain nombre de vérifications techniques que nous allons réaliser et partager avec vous sur notre compte <a target="_blank" href="https://www.instagram.com/tu4ever_205/">Instagram</a> et dans la rubrique <a sveltekit:prefetch href="/articles">Articles</a> de ce site.
+        De plus, nous avons prévu certaines modifications d'ordre esthétique, ainsi que des travaux de restauration que nous documenterons également.
     </p>
-    <div class="d-flex justify-content-center">
-        <a target="_blank" class="link" href="https://github.com/Legoota/tu4ever-website"><Github /> Github</a>
-    </div>
-	<br/>
 
-	<h1>Nous contacter</h1>
+    <br/>
+
+    <h1>L'équipage</h1> 
 
 	<p class="paragraphe">
-		Vous pouvez nous joindre aisément en utilisant un des réseaux sociaux ci-dessous, ou bien en nous envoyant un mail :
+		
 	</p>
-    <div class="d-flex justify-content-center">
-        <a target="_blank" class="link" href="https://www.instagram.com/tu4ever_205/"><Instagram /> Instagram</a>
-        <a target="_blank" class="link" href="https://twitter.com/tu4ever_205"><Twitter /> Twitter</a>
-        <a class="link" href="mailto:contact@tu4ever.fr"><Envelope /> Mail</a>
-    </div>
-    
-	<br/>
-
-	<h1>Alpinaraid 2022</h1>
-
-	<p class="paragraphe">
-		L’<a target="_blank" href="https://alpinaraid.fr/">Alpina Raid</a> est un raid touristique et culturel à la découverte des Alpes françaises et italiennes. À bord de Peugeot 205 trentenaires toutes décorées et préparées pour l’aventure, les équipages rallient le Mont-Blanc à la mer Méditerranée. Une aventure de 800 kilomètres en 6 jours à travers pas moins de 25 grands cols Alpins et plus de 25 000 mètres de dénivelé positif.
-	</p>
-	<p class="paragraphe">
-		Cet événement se déroule du 3 au 8 juillet 2022.
-	</p>
-    <div class="d-flex justify-content-center">
-        <img src="images/itineraire-alpina-22.jpg" class="img-fluid mx-auto img-fit" alt="Itinéraire">
-    </div>
+	
 </div>
 
 <style>
@@ -71,22 +54,6 @@
         -webkit-user-select: none;
         user-select: none;
 	}
-
-    .link {
-        font-weight: 700;
-        font-size: 1rem;
-        text-transform: uppercase;
-        text-decoration: none;
-        margin-left: 1em;
-        letter-spacing: 0.1em;
-        color: var(--secondary-color);
-        transition: color 0.2s linear;
-    }
-
-    .link:hover {
-        margin-left: 1em;
-        color: var(--accent-color);
-    }
 
     .paragraphe {
 		color: white;

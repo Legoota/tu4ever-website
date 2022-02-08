@@ -20,7 +20,7 @@
     <h1>A propos du site</h1>
 
 	<p class="paragraphe">
-		Ce site est entièrement réalisé par les membres de l'équipe, en guise de projet personnel. Etant ingénieurs en informatique, nous avons trouvé logique de réaliser nous même notre propre support de communication.
+		Ce site est entièrement réalisé par nos soins, en guise de projet personnel. Etant ingénieurs en informatique, nous avons trouvé logique de réaliser nous même notre propre support de communication.
 	</p>
     <p class="paragraphe">
         Afin de réaliser ce site, nous avons utilisé le framework <a target="_blank" href="https://kit.svelte.dev/">Svelte.js</a>, et nous l'hébergeons sur Github Pages.

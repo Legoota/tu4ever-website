@@ -24,7 +24,7 @@
     </ul>
     <br/>
     <p class="paragraphe">
-		Pour toutes questions ou demande de partenariats, vous pouvez nous contacter via notre compte <a target="_blank" class="link" href="https://www.instagram.com/tu4ever_205/">Instagram</a> ou directement à l'adresse <a class="link" href="mailto:partenariats@tu4ever.fr">partenariats@tu4ever.fr</a>. Nous serons ravis de collaborer avec vous !
+		Pour toutes questions ou demande de partenariats, vous pouvez nous contacter via notre compte <a target="_blank" href="https://www.instagram.com/tu4ever_205/">Instagram</a> ou directement à l'adresse <a href="mailto:partenariats@tu4ever.fr">partenariats@tu4ever.fr</a>. Nous serons ravis de collaborer avec vous !
 	</p>
     <br/>
     <p class="paragraphe">
@@ -50,16 +50,6 @@
         -webkit-user-select: none;
         user-select: none;
 	}
-
-    .link {
-        text-decoration: none;
-        color: var(--secondary-color);
-        transition: color 0.2s linear;
-    }
-
-    .link:hover {
-        color: var(--accent-color);
-    }
 
     .paragraphe {
 		color: white;
