@@ -8,7 +8,7 @@
 
 
 <svelte:head>
-	<title>TU4EVER</title>
+	<title>Accueil - TU4EVER</title>
 </svelte:head>
 
 <div>

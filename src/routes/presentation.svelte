@@ -6,11 +6,11 @@
 </script>
 
 <svelte:head>
-	<title>A propos - TU4EVER</title>
+	<title>Présentation - TU4EVER</title>
 </svelte:head>
 
 <div class="content">
-	<h1>A propos de l'équipe TU4EVER</h1>
+	<h1>Présentation</h1>
 
 	<p class="paragraphe">
 		Nous sommes les deux membres de l'association TU4EVER, qui a pour objectif la préparation et la participation à des raids automobiles en Peugeot 205.

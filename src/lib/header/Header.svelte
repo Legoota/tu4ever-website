@@ -111,6 +111,6 @@
 
 	.navbar-mobile {
 		overflow: auto;
-		padding-left: 6em;
+		padding-left: 10em;
 	}
 </style>
