@@ -29,13 +29,47 @@
         De plus, nous avons prévu certaines modifications d'ordre esthétique, ainsi que des travaux de restauration que nous documenterons également.
     </p>
 
+	<img src="images/205-neige.jpg" class="rounded-circle w-50 mx-auto d-block" alt="Cinque Terre">
+
     <br/>
 
     <h1>L'équipage</h1> 
 
-	<p class="paragraphe">
-		
-	</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm">
+				<br/>
+				<!--<img src="#" class="rounded-circle mx-auto d-block" alt="Cinque Terre">
+				<br/>-->
+				<p class="paragraphe">
+					Je m'appelle Léo B, originaire du Jura et grand amoureux de la montagne dont j'affectionne particulièrement les paysages.
+				</p>
+				<p class="paragraphe">
+					Amateur en mécanique, motard et passionné de voitures anciennes, je roule quotidiennement avec le pendant de la Peugeot 205, incompréhensiblement resté en second plan, une Citroën AX de 1991.
+					Je suis également adepte de VTT, randonnées et voyages.
+				</p>
+				<p class="paragraphe">
+					Actuellement en dernière année d'une école d'ingénieur informatique en alternance dans laquelle j'ai fait la connaissance de Léo K et où ce projet de raid est né.
+				</p>
+			</div>
+			<div class="col-sm">
+				<br/>
+				<!--<img src="#" class="rounded-circle mx-auto d-block" alt="Cinque Terre">
+				<br/>-->
+				<p class="paragraphe">
+					Je suis Léo K, né en Alsace, j'ai toujours apprécié les différents panoramas que cette région peut offrir. Je suis actuellement en dernière année d'école d'ingénieur dans le domaine
+					informatique, dans laquelle j'ai rencontré Léo B et nous avons débuté ce projet de raid. 
+				</p>
+				<p class="paragraphe">
+					J'affectionne particulièrement piloter des drones, qu'ils soient stabilisés ou non (FPV) et
+					toucher à l'électronique (HiFi vintage, construction de claviers mécaniques et drones).
+				</p>
+				<p class="paragraphe">
+					J'apprécie également la mécanique automobile, domaine dans lequel je souhaiterai progresser et apprendre de nouvelles choses.
+				</p>
+		  	</div>
+		</div>
+	  </div>
 	
 </div>
 
