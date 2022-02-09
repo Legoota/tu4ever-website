@@ -1,8 +1,4 @@
 <script context="module">
-	import Instagram from "svelte-bootstrap-icons/lib/Instagram";
-    import Twitter from "svelte-bootstrap-icons/lib/Twitter";
-    import Envelope from "svelte-bootstrap-icons/lib/Envelope";
-    import Github from "svelte-bootstrap-icons/lib/Github";
 </script>
 
 <svelte:head>
