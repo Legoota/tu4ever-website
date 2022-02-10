@@ -11,7 +11,7 @@
 
 <style>
   	canvas {
-		height: 20em;
+		height: 30em;
     /*outline: black 3px solid;*/
 	}
 </style>

@@ -91,8 +91,6 @@
 			</div>
 		</DeviceDetector>
 	</div>
-	
-	<!--<Peugeot/>-->
 
 </div>
 <style>
