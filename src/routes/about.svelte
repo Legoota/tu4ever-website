@@ -52,7 +52,7 @@
 		Cet événement se déroule du 3 au 8 juillet 2022.
 	</p>
     <div class="d-flex justify-content-center">
-        <img src="images/itineraire-alpina-22.jpg" class="img-fluid mx-auto img-fit" alt="Itinéraire">
+        <img src="images/itineraire-alpina-22.jpg" class="img-fluid rounded mx-auto img-fit" alt="Itinéraire">
     </div>
 </div>
 

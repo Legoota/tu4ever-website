@@ -76,15 +76,6 @@
 		margin: var(--column-margin-top) auto 0 auto;
 	}
 
-	.img-fit {
-		object-fit: contain;
-        -khtml-user-select: none;
-        -o-user-select: none;
-        -moz-user-select: none;
-        -webkit-user-select: none;
-        user-select: none;
-	}
-
     .paragraphe {
 		color: white;
 	}

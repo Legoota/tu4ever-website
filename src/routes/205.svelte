@@ -5,6 +5,10 @@
 
 </script>
 
+<svelte:head>
+	<title>Easter egg - TU4EVER</title>
+</svelte:head>
+
 <div class="content">
 
     <h1>Page secrète !</h1>
