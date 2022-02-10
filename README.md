@@ -16,3 +16,10 @@ All of the website is built by the team members.
  * The website is using the [SvelteKit](https://kit.svelte.dev/) framework
  * The adapter used to deploy the website is ```adapter-static```
  * Hosting using *Github Pages*
+
+# Publish to Github Pages
+
+ * ```yarn build```
+ * Empty the ```.nojekyll``` file
+ * Add ```.``` in front of ```/.../``` files in the ```index.html``` file
+ * ```yarn publish```
