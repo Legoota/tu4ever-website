@@ -22,4 +22,4 @@ All of the website is built by the team members.
  * ```yarn build```
  * Empty the ```.nojekyll``` file
  * Add ```.``` in front of ```/.../``` files in the ```index.html``` file
- * ```yarn publish```
+ * ```yarn deploy```
