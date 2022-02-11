@@ -15,12 +15,12 @@
     <br/>
     <h1>Le projet</h1>
 
-	<p class="paragraphe">
+	<p class="paragraphe" itemscope itemtype="https://schema.org/Car">
 		Pour réaliser cet objectif, nous nous sommes lancés dans le projet TU4EVER afin d'acquérir une voiture, de la restaurer et de la préparer par nos soins.
         Nous avons donc acheté une Peugeot 205 Génération de 1997, motorisée par l'emblématique bloc TU3M de PSA.
 	</p>
 
-    <p class="paragraphe">
+    <p class="paragraphe" itemscope itemtype="https://schema.org/Car">
         Pour participer à l'Alpinaraid, notre voiture doit passer un certain nombre de vérifications techniques que nous allons réaliser et partager avec vous sur notre compte <a target="_blank" href="https://www.instagram.com/tu4ever_205/">Instagram</a> et dans la rubrique <a sveltekit:prefetch href="/articles">Articles</a> de ce site.
         De plus, nous avons prévu certaines modifications d'ordre esthétique, ainsi que des travaux de restauration que nous documenterons également.
     </p>
@@ -33,7 +33,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-sm">
+			<div class="col-sm" itemscope itemtype="https://schema.org/Person">
 				<br/>
 				<!--<img src="#" class="rounded-circle mx-auto d-block" alt="Cinque Terre">
 				<br/>-->
@@ -48,7 +48,7 @@
 					Actuellement en dernière année d'une école d'ingénieur informatique en alternance dans laquelle j'ai fait la connaissance de Léo K et où ce projet de raid est né.
 				</p>
 			</div>
-			<div class="col-sm">
+			<div class="col-sm" itemscope itemtype="https://schema.org/Person">
 				<br/>
 				<!--<img src="#" class="rounded-circle mx-auto d-block" alt="Cinque Terre">
 				<br/>-->
