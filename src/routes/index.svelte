@@ -67,7 +67,7 @@
 					</ul>
 				</div>
 				<div class="col">
-					<img src="images/alps.jpg" class="img-fluid rounded img-fit" alt="Car">
+					<img src="images/205.png" class="img-fluid rounded img-fit" alt="Car">
 				</div>
 			</div>
 		</DeviceDetector>
@@ -87,7 +87,7 @@
 						Un espace <a sveltekit:prefetch href="/partenariats">Partenariats</a> dédié aux sponsors de l'aventure.
 					</li>
 				</ul>
-				<img src="images/alps.jpg" class="img-fluid rounded img-fit" alt="Car">
+				<img src="images/205.png" class="img-fluid rounded img-fit" alt="Car">
 			</div>
 		</DeviceDetector>
 	</div>
