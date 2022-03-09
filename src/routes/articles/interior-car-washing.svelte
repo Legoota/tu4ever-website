@@ -36,8 +36,8 @@
                 </p>
                 <br/>
                 <p class="paragraphe">
-                    Enfin, après le séchage, nous avons utilisé de l'amoniaque et une brosse sur housses des sièges et la moquette pour raviver les couleurs d'origine.
-                    <span class="badge badge-accent">Attention</span> l'amoniaque peut être très dangereux, portez des gants, des lunettes, un masque et mettez-vous dans un espace aéré. 
+                    Enfin, après le séchage, nous avons utilisé de l'ammoniaque et une brosse sur housses des sièges et la moquette pour raviver les couleurs d'origine.
+                    <span class="badge badge-accent">Attention</span> l'ammoniaque peut être très dangereuse, portez des gants, des lunettes, un masque et mettez-vous dans un espace aéré. 
                 </p>
 			</div>
 			<div class="col-sm">
