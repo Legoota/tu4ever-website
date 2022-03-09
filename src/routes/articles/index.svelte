@@ -15,18 +15,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm">
-                    <!--
                     <div class="card card-article" style="width: 20rem;">
-                        <img class="card-img-top" src="images/205-neige.jpg" alt="Article">
+                        <img class="card-img-top" src="images/interior_washing/6.jpg" alt="Article">
                         <div class="card-body">
-                            <h5 class="card-title">Titre</h5>
-                            <p class="card-text card-article-short">Informations de base</p>
+                            <h5 class="card-title">Nettoyage de l'intérieur</h5>
+                            <p class="card-text card-article-short">Nous partageons avec vous la "remise à neuf" de l'intérieur de notre 205. Il y avait du travil...</p>
                             <div class="row mx-auto d-block">
-                                <a sveltekit:prefetch href="/articles/testing-template" class="btn card-article-btn">Lire</a>
+                                <a sveltekit:prefetch href="/articles/interior-car-washing" class="btn card-article-btn">Lire</a>
                             </div>
                         </div>
                     </div>
-                    -->
                 </div>
                 <div class="col-sm">
                     <!-- CARTE ICI-->
