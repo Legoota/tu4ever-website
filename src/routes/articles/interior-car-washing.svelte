@@ -91,7 +91,7 @@
     </div>
 
     <p class="paragraphe">
-        A très bientôt pour les prochains articles...
+        Nous constatons que les plastiques ont retrouvés leur brillance d'antant et les tissus leur couleur d'origine.
     </p>
 
 </div>
