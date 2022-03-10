@@ -61,6 +61,17 @@
             </div>
             -->
 
+            <div class="card card-article" style="width: 20rem;">
+                <img class="card-img-top" src="images/interior_washing/6.jpg" alt="Article">
+                <div class="card-body">
+                    <h5 class="card-title">Nettoyage de l'intérieur</h5>
+                    <p class="card-text card-article-short">Nous partageons avec vous la "remise à neuf" de l'intérieur de notre 205. Il y avait du travil...</p>
+                    <div class="row mx-auto d-block">
+                        <a sveltekit:prefetch href="/articles/interior-car-washing" class="btn card-article-btn">Lire</a>
+                    </div>
+                </div>
+            </div>
+
             <!-- CARTE ICI-->
         </div>
     </DeviceDetector>

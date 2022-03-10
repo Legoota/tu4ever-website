@@ -44,9 +44,11 @@
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/interior_washing/1.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+                        <br/>
                     </div>
                     <div class="col-sm">
                         <img src="/images/interior_washing/3.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+                        <br/>
                       </div>
                 </div>
 		  	</div>
