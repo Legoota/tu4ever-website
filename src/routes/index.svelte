@@ -3,6 +3,7 @@
 	import DeviceDetector from "svelte-device-detector";
 	//import { Toast } from '$lib/bootstrap/bootstrap.esm.min.js';
 	export const prerender = true;
+	import './sitemap.xml.js';
 
 </script>
 
