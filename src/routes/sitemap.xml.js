@@ -1,3 +1,4 @@
+/** @type {import('@sveltejs/kit').RequestHandler} */
 export async function get() {
     const headers = {
       'Cache-Control': 'max-age=0, s-maxage=3600',
@@ -23,5 +24,6 @@ export async function get() {
                 <loc>https://tu4ever.fr/presentation</loc>
             </url>
         </urlset>`,
+        status: 200
     }
   }
