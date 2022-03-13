@@ -1,18 +1,17 @@
 <script context="module">
     export const load = async ({fetch}) => {
-        const res = await fetch("index.json");
-        const data = await res.json();
+        const res = await fetch("sitemap.xml");
 
         return {
             props: {
-                data,
+                res,
             },
         };
     };
 </script>
 
 <script>
-    export let data;
+    export let res;
 </script>
 
-<textarea>{JSON.stringify(data)}</textarea>
+<textarea>{res}</textarea>
