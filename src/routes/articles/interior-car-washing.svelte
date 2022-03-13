@@ -106,55 +106,14 @@
 		color: white;
 	}
 
-    .accent-color {
-        color: var(--accent-color);
-    }
-
-    .secondary-color {
-        color: var(--secondary-color);
-    }
-
-    .tertiary-color {
-        color: var(--tertiary-color);
-    }
-
-    .quartiary-color {
-        color: var(--quartiary-color);
-    }
-
-    h2 {
-        font-size: x-large;
-        text-align: center;
-    }
-
     h3 {
         font-size: large;
         text-align: left;
         color: var(--accent-color);
     }
 
-    .list {
-        color: white;
-    }
-
     .badge-accent {
         background-color: var(--accent-color);
-    }
-
-    .badge-primary {
-        background-color: var(--primary-color);
-    }
-
-    .badge-secondary {
-        background-color: var(--secondary-color);
-    }
-
-    .badge-tertiary {
-        background-color: var(--tertiary-color);
-    }
-
-    .badge-quartiary {
-        background-color: var(--quartiary-color);
     }
     
 </style>

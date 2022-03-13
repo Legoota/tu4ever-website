@@ -1,7 +1,5 @@
 <script context="module">
-	import Peugeot from "$lib/Peugeot/Peugeot.svelte";
 	import DeviceDetector from "svelte-device-detector";
-	//import { Toast } from '$lib/bootstrap/bootstrap.esm.min.js';
 	export const prerender = true;
 	import './sitemap.xml.js';
 
