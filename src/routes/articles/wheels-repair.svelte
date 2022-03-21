@@ -181,6 +181,10 @@
 			</div>
 		</div>
     </div>
+
+    <p class="paragraphe">
+        Après avoir poncé la première couche d'apprêt, nous avons appliqué une seconde couche d'apprêt, un peu plus épaisse que la première.
+	</p>
     
 
     <br/>
@@ -188,15 +192,85 @@
     <h3>Étape 5 : peinture</h3>
     <br/>
 
+    <p class="paragraphe">
+        Une fois avoir attendu que l'apprêt soit sec, nous avons peint la première couche de peinture. Nous avons choisi la couleur grise originale qui équippait les jantes de GTI d'époque.
+        Comme pour l'apprêt, nous avons commencé par une fine couche de peinture.
+	</p>
+
+    <div class="container">
+		<div class="row">
+			<div class="col-sm">
+				<br/>
+				<div class="text-center">
+                    <figure class="figure">
+                        <img src="/images/wheels_repair/5.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Jantes après première couche de peinture">
+                        <figcaption class="figure-caption text-right text-light">Les quatre roues après la première couche de peinture</figcaption>
+                    </figure>
+                </div>
+			</div>
+			<div class="col-sm">
+				<br/>
+				<div class="text-center">
+                    <figure class="figure">
+                        <img src="/images/wheels_repair/5bis.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Détail peinture sur une jante">
+                        <figcaption class="figure-caption text-right text-light">Détail de la peinture sur une jante</figcaption>
+                    </figure>
+                </div>
+		  	</div>
+		</div>
+    </div>
+
+    <p class="paragraphe">
+        Une fois la première couche de peinture sèche, nous avons appliqué la seconde couche, un peu plus épaisse.
+	</p>
+
     <br/>
     <br/>
     <h3>Étape 6 : vernis</h3>
     <br/>
 
+    <p class="paragraphe">
+        Enfin, après séchage des deux couches de peinture, nous appliquons, de la même manière, deux couches de vernis (monocomposant, ou 1K, dans notre cas) sur les jantes.
+	</p>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img src="/images/wheels_repair/7.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Roues après vernis">
+            <figcaption class="figure-caption text-right text-light">Les quatre roues après vernissage</figcaption>
+        </figure>
+    </div>
+
+    <p class="paragraphe">
+        L'étape de vernissage est très importante car celle-ci permet de protéger la roue, et ainsi augmenter sa durée de vie.
+	</p>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img src="/images/wheels_repair/6.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Détail d'une roue">
+            <figcaption class="figure-caption text-right text-light">Détail du vernissage sur une roue</figcaption>
+        </figure>
+    </div>
+
     <br/>
     <br/>
     <h3>Résultat</h3>
     <br/>
+
+    <p class="paragraphe">
+        Une fois les deux couches de vernis sèches, nous avons pu retirer les protections en journal et ruban de masquage. Ainsi, nous pouvons à présent admirer nos roues rénovées directement à la maison !
+	</p>
+
+    <p class="paragraphe">
+        Comme nous l'avons énoncé plus haut dans l'article, le résultat est loin d'être parfait, mais est amplement suffisant en considérant l'argent investi. Toutefois, faire cette rénovation soi-même requiert
+        un certain temps, mais permet d'en apprendre plus sur les techniques de peinture ainsi que de restauration de jantes.
+	</p>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img src="/images/wheels_repair/8.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Résultat final">
+            <figcaption class="figure-caption text-right text-light">Résultat final</figcaption>
+        </figure>
+    </div>
 
     <br/>
     <br/>
