@@ -207,5 +207,9 @@
     .badge-quartiary {
         background-color: var(--quartiary-color);
     }
+
+    .figure-caption {
+        font-style: italic;
+    }
     
 </style>
