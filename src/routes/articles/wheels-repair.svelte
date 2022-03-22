@@ -193,7 +193,7 @@
     <br/>
 
     <p class="paragraphe">
-        Une fois avoir attendu que l'apprêt soit sec, nous avons peint la première couche de peinture. Nous avons choisi la couleur grise originale qui équippait les jantes de GTI d'époque.
+        Une fois avoir attendu que l'apprêt soit sec, nous avons appliqué la première couche de peinture. Nous avons choisi la couleur grise originale qui équippait les jantes de GTI d'époque.
         Comme pour l'apprêt, nous avons commencé par une fine couche de peinture.
 	</p>
 
