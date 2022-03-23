@@ -12,16 +12,22 @@ export async function get() {
                 <loc>https://tu4ever.fr</loc>
             </url>
             <url>
-                <loc>https://tu4ever.fr/about</loc>
+                <loc>https://tu4ever.fr/about/</loc>
             </url>
             <url>
-                <loc>https://tu4ever.fr/articles</loc>
+                <loc>https://tu4ever.fr/articles/</loc>
             </url>
             <url>
-                <loc>https://tu4ever.fr/partenariats</loc>
+                <loc>https://tu4ever.fr/articles/interior-car-washing/</loc>
             </url>
             <url>
-                <loc>https://tu4ever.fr/presentation</loc>
+                <loc>https://tu4ever.fr/articles/wheels-repair/</loc>
+            </url>
+            <url>
+                <loc>https://tu4ever.fr/partenariats/</loc>
+            </url>
+            <url>
+                <loc>https://tu4ever.fr/presentation/</loc>
             </url>
         </urlset>`,
         status: 200
