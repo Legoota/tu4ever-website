@@ -21,7 +21,7 @@
                             <h5 class="card-title">Nettoyage de l'intérieur</h5>
                             <p class="card-text card-article-short">Nous partageons avec vous la "remise à neuf" de l'intérieur de notre 205. Il y avait du travail...</p>
                             <div class="row mx-auto d-block">
-                                <a sveltekit:prefetch href="/articles/interior-car-washing" class="btn card-article-btn">Lire</a>
+                                <a sveltekit:prefetch href="/articles/interior-car-washing/" class="btn card-article-btn">Lire</a>
                             </div>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <h5 class="card-title">Réfection des jantes</h5>
                             <p class="card-text card-article-short">Nous avons restauré des jantes de 205 GTI 1.6 à la maison, et nous vous expliquons les différentes étapes.</p>
                             <div class="row mx-auto d-block">
-                                <a sveltekit:prefetch href="/articles/wheels-repair" class="btn card-article-btn">Lire</a>
+                                <a sveltekit:prefetch href="/articles/wheels-repair/" class="btn card-article-btn">Lire</a>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                     <h5 class="card-title">Nettoyage de l'intérieur</h5>
                     <p class="card-text card-article-short">Nous partageons avec vous la "remise à neuf" de l'intérieur de notre 205. Il y avait du travail...</p>
                     <div class="row mx-auto d-block">
-                        <a sveltekit:prefetch href="/articles/interior-car-washing" class="btn card-article-btn">Lire</a>
+                        <a sveltekit:prefetch href="/articles/interior-car-washing/" class="btn card-article-btn">Lire</a>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
                     <h5 class="card-title">Réfection des jantes</h5>
                     <p class="card-text card-article-short">Nous avons restauré des jantes de 205 GTI 1.6 à la maison, et nous vous expliquons les différentes étapes.</p>
                     <div class="row mx-auto d-block">
-                        <a sveltekit:prefetch href="/articles/wheels-repair" class="btn card-article-btn">Lire</a>
+                        <a sveltekit:prefetch href="/articles/wheels-repair/" class="btn card-article-btn">Lire</a>
                     </div>
                 </div>
             </div>

@@ -278,7 +278,7 @@
     <br/>
 
     <p class="paragraphe">
-        La principale source que nous avons utilisé est un message de l'utilisateur <i>3dfx</i> le forum <i>planete-205</i> : <a target="_blank" href="https://www.planete-205.com/forum/refection-jantes-gti-1600-t43576.html">Réfection jantes GTI 1600</a>
+        La principale source que nous avons utilisée est un message de l'utilisateur <i>3dfx</i> le forum <i>planete-205</i> : <a target="_blank" href="https://www.planete-205.com/forum/refection-jantes-gti-1600-t43576.html">Réfection jantes GTI 1600</a>
 	</p>
 
 	

@@ -55,13 +55,13 @@
 					</p>
 					<ul>
 						<li>
-							Une page de <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
+							Une page de <a sveltekit:prefetch href="/presentation/">Présentation</a> du projet et de l'équipe.
 						</li>
 						<li>
-							Une page <a sveltekit:prefetch href="/articles">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.
+							Une page <a sveltekit:prefetch href="/articles/">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.
 						</li>
 						<li>
-							Un espace <a sveltekit:prefetch href="/partenariats">Partenariats</a> dédié aux sponsors de l'aventure.
+							Un espace <a sveltekit:prefetch href="/partenariats/">Partenariats</a> dédié aux sponsors de l'aventure.
 						</li>
 					</ul>
 				</div>
@@ -77,13 +77,13 @@
 				</p>
 				<ul>
 					<li>
-						Une page de <a sveltekit:prefetch href="/presentation">Présentation</a> du projet et de l'équipe.
+						Une page de <a sveltekit:prefetch href="/presentation/">Présentation</a> du projet et de l'équipe.
 					</li>
 					<li>
-						Une page <a sveltekit:prefetch href="/articles">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.
+						Une page <a sveltekit:prefetch href="/articles/">Articles</a> répertoriant la préparation du véhicule ainsi que la semaine de raid.
 					</li>
 					<li>
-						Un espace <a sveltekit:prefetch href="/partenariats">Partenariats</a> dédié aux sponsors de l'aventure.
+						Un espace <a sveltekit:prefetch href="/partenariats/">Partenariats</a> dédié aux sponsors de l'aventure.
 					</li>
 				</ul>
 				<img src="images/205.png" class="img-fluid rounded img-fit" alt="Car">

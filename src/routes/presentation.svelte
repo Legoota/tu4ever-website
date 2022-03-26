@@ -21,7 +21,7 @@
 	</p>
 
     <p class="paragraphe" itemscope itemtype="https://schema.org/Car">
-        Pour participer à l'Alpinaraid, notre voiture doit passer un certain nombre de vérifications techniques que nous allons réaliser et partager avec vous sur notre compte <a target="_blank" href="https://www.instagram.com/tu4ever_205/">Instagram</a> et dans la rubrique <a sveltekit:prefetch href="/articles">Articles</a> de ce site.
+        Pour participer à l'Alpinaraid, notre voiture doit passer un certain nombre de vérifications techniques que nous allons réaliser et partager avec vous sur notre compte <a target="_blank" href="https://www.instagram.com/tu4ever_205/">Instagram</a> et dans la rubrique <a sveltekit:prefetch href="/articles/">Articles</a> de ce site.
         De plus, nous avons prévu certaines modifications d'ordre esthétique, ainsi que des travaux de restauration que nous documenterons également.
     </p>
 
