@@ -41,7 +41,7 @@
 	</p>
     <div class="text-center">
         <figure class="figure">
-            <img src="/images/wheels_repair/1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante">
+            <img loading="lazy" src="/images/wheels_repair/1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante">
             <figcaption class="figure-caption text-right text-light">État de la pire jante avant travaux</figcaption>
         </figure>
     </div>
@@ -76,7 +76,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img src="/images/wheels_repair/2.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
+            <img loading="lazy" src="/images/wheels_repair/2.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
             <figcaption class="figure-caption text-right text-light">État de la pire jante après ponçage</figcaption>
         </figure>
     </div>
@@ -111,7 +111,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img src="/images/wheels_repair/3.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
+            <img loading="lazy" src="/images/wheels_repair/3.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
             <figcaption class="figure-caption text-right text-light">Les quatre roues poncées et masquées</figcaption>
         </figure>
     </div>
@@ -156,7 +156,7 @@
 				<br/>
 				<div class="text-center">
                     <figure class="figure">
-                        <img src="/images/wheels_repair/4.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
+                        <img loading="lazy" src="/images/wheels_repair/4.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
                         <figcaption class="figure-caption text-right text-light">Les quatre roues après la première couche d'apprêt</figcaption>
                     </figure>
                 </div>
@@ -165,7 +165,7 @@
 				<br/>
 				<div class="text-center">
                     <figure class="figure">
-                        <img src="/images/wheels_repair/4bis.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
+                        <img loading="lazy" src="/images/wheels_repair/4bis.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
                         <figcaption class="figure-caption text-right text-light">Détail de l'apprêt sur la pire jante</figcaption>
                     </figure>
                 </div>
@@ -174,7 +174,7 @@
 				<br/>
 				<div class="text-center">
                     <figure class="figure">
-                        <img src="/images/wheels_repair/4ter.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
+                        <img loading="lazy" src="/images/wheels_repair/4ter.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Pire jante après ponçage">
                         <figcaption class="figure-caption text-right text-light">Il est nécessaire de poncer !</figcaption>
                     </figure>
                 </div>
@@ -203,7 +203,7 @@
 				<br/>
 				<div class="text-center">
                     <figure class="figure">
-                        <img src="/images/wheels_repair/5.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Jantes après première couche de peinture">
+                        <img loading="lazy" src="/images/wheels_repair/5.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Jantes après première couche de peinture">
                         <figcaption class="figure-caption text-right text-light">Les quatre roues après la première couche de peinture</figcaption>
                     </figure>
                 </div>
@@ -212,7 +212,7 @@
 				<br/>
 				<div class="text-center">
                     <figure class="figure">
-                        <img src="/images/wheels_repair/5bis.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Détail peinture sur une jante">
+                        <img loading="lazy" src="/images/wheels_repair/5bis.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Détail peinture sur une jante">
                         <figcaption class="figure-caption text-right text-light">Détail de la peinture sur une jante</figcaption>
                     </figure>
                 </div>
@@ -235,7 +235,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img src="/images/wheels_repair/7.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Roues après vernis">
+            <img loading="lazy" src="/images/wheels_repair/7.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Roues après vernis">
             <figcaption class="figure-caption text-right text-light">Les quatre roues après vernissage</figcaption>
         </figure>
     </div>
@@ -246,7 +246,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img src="/images/wheels_repair/6.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Détail d'une roue">
+            <img loading="lazy" src="/images/wheels_repair/6.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Détail d'une roue">
             <figcaption class="figure-caption text-right text-light">Détail du vernissage sur une roue</figcaption>
         </figure>
     </div>
@@ -267,7 +267,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img src="/images/wheels_repair/8.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Résultat final">
+            <img loading="lazy" src="/images/wheels_repair/8.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Résultat final">
             <figcaption class="figure-caption text-right text-light">Résultat final</figcaption>
         </figure>
     </div>

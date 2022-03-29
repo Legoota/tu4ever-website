@@ -43,11 +43,11 @@
 			<div class="col-sm">
                 <div class="row">
                     <div class="col-sm">
-                        <img src="/images/interior_washing/1.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+                        <img loading="lazy" src="/images/interior_washing/1.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
                         <br/>
                     </div>
                     <div class="col-sm">
-                        <img src="/images/interior_washing/3.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+                        <img loading="lazy" src="/images/interior_washing/3.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
                         <br/>
                       </div>
                 </div>
@@ -72,19 +72,19 @@
 			<div class="col-sm">
 				<br/>
 				<p class="paragraphe">
-					<img src="/images/interior_washing/5.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+					<img loading="lazy" src="/images/interior_washing/5.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
 				</p>
 			</div>
 			<div class="col-sm">
 				<br/>
 				<p class="paragraphe">
-					<img src="/images/interior_washing/6.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+					<img loading="lazy" src="/images/interior_washing/6.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
 				</p>
 		  	</div>
               <div class="col-sm">
 				<br/>
 				<p class="paragraphe">
-					<img src="/images/interior_washing/7.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
+					<img loading="lazy" src="/images/interior_washing/7.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
 				</p>
 			</div>
 		</div>

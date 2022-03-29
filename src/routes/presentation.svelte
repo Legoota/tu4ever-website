@@ -25,7 +25,7 @@
         De plus, nous avons prévu certaines modifications d'ordre esthétique, ainsi que des travaux de restauration que nous documenterons également.
     </p>
 
-	<img src="images/205-neige.jpg" class="rounded-circle w-50 mx-auto d-block" alt="Cinque Terre">
+	<img src="images/205-neige.jpg" class="rounded-circle w-50 mx-auto d-block" alt="205 dans la neige">
 
     <br/>
 
