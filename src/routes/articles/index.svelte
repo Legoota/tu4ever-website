@@ -39,7 +39,16 @@
                     </div>
                 </div>
                 <div class="col-sm">
-                    <!-- CARTE ICI-->
+                    <div class="card card-article" style="width: 20rem;">
+                        <img class="card-img-top" src="images/brakes-replacement/miniature.jpg" alt="Brakes">
+                        <div class="card-body">
+                            <h5 class="card-title">Remplacement des freins</h5>
+                            <p class="card-text card-article-short">Nous avons enfin remplacé les freins avant et arrières de notre Peugeot 205. Il était temps...</p>
+                            <div class="row mx-auto d-block">
+                                <a sveltekit:prefetch href="/articles/brakes-replacement/" class="btn card-article-btn">Lire</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 

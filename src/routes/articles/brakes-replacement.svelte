@@ -2,20 +2,48 @@
 </script>
 
 <svelte:head>
-	<title>Titre de l'article - TU4EVER</title>
+	<title>Remplacement des freins - TU4EVER</title>
 </svelte:head>
 
 <div class="content">
-	<h1>Titre de l'article</h1>
+	<h1>Remplacement des freins avant et arrières de notre Peugeot 205</h1>
+
+    <br/><br/>
 
 	<p class="paragraphe">
-		<span class="accent-color">Paragraphe introductif avec texte couleur</span> - 
-        <span class="secondary-color">Autre couleur pour texte</span> - 
-        <span class="tertiary-color">Autre couleur pour texte</span> -
-        <span class="quartiary-color">Autre couleur pour texte</span> -
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eum ex tempore sunt rem labore sit, et ab in praesentium doloremque, beatae odit assumenda enim! Blanditiis aspernatur quibusdam laboriosam aut.
+        Nous avons enfin effectué le remplacement des freins avant et arrière de notre Peugeot 205. Nous vous présentons dans cet article un aperçu des travaux.
+        Lors du premier essai de notre voiture, nous avons tout de suite senti que les freins n'étaient pas dans leur meilleure forme et nous savions qu'il allait falloir les changer très vite. Nous avons commandé les pièces et décidé de faire le remplacment à la maison et sans outils spéciaux.
 	</p>
 
+    <h2>Les tambours arrières</h2>
+    <br/>
+    <h3>Étape 1 : Ouverture</h3>
+    <br/>
+    <p class="paragraphe">
+        Après avoir posé la voiture sur chandelles, ôté les roues arrières et désseré le frein à main, nous avons retiré le cache du moyeu. 
+        Nous avons enuite pu défreiner l'écrou à l'aide d'un marteau et d'un burin.
+    </p>
+    <p class="paragraphe">
+        Nous avons ensuite, à l'aide du marteau et du burin d'un côté et d'une cale de bois de l'autre, retiré le tambour. Nous avons longuement martellé la pièce et pulsirisé du dégripant pour la désolidariser de l'ensemble.
+    </p>
+    <br/>
+    <div class="container">
+		<div class="row">
+			<div class="col-sm">
+				<figure class="figure">
+                    <img src="/images/brakes-replacement/1.jpg" class="figure-img img-fluid rounded" alt="Initial brake">
+                    <figcaption class="figure-caption text-right text-light">Dépose de  l'écrou freiné</figcaption>
+                </figure>
+			</div>
+            <div class="col-1"></div>
+			<div class="col-sm">
+                <figure class="figure">
+                    <img src="/images/brakes-replacement/2.jpg" class="figure-img img-fluid rounded" alt="Initial brake">
+                    <figcaption class="figure-caption text-right text-light">Aperçu de profil du tambour de frein avant ouverture</figcaption>
+                </figure>
+		  	</div>
+		</div>
+	  </div>
     <!-- IMAGE -->
 
 	<img src="/images/205-neige.jpg" class="img-fluid rounded mx-auto d-block" alt="Desc">
