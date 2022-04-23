@@ -6,15 +6,13 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Remplacement des freins avant et arrières de notre Peugeot 205</h1>
-
-    <br/><br/>
-
+	<h1>Remplacement des freins avant et arrière de notre Peugeot 205</h1>
+    <br/>
 	<p class="paragraphe">
         Nous avons enfin effectué le remplacement des freins avant et arrière de notre Peugeot 205. Nous vous présentons dans cet article un aperçu des travaux.
         Lors du premier essai de notre voiture, nous avons tout de suite senti que les freins n'étaient pas dans leur meilleure forme et nous savions qu'il allait falloir les changer très vite. Nous avons commandé les pièces et décidé de faire le remplacment à la maison et sans outils spéciaux.
 	</p>
-
+    <br/>
     <h2>Les tambours arrières</h2>
     <br/>
     <h3>Étape 1 : Ouverture</h3>
@@ -46,7 +44,7 @@
 		  	</div>
 		</div>
 	  </div>
-    <br/>
+    <br/><br/>
     <h3>Étape 2 : Dépose de l'ancien kit</h3>
     <br/>
     <p class="paragraphe">
@@ -109,8 +107,80 @@
 
     <br/>
     <br/>
+    <br/>
     <h2>Les disques et plaquettes avant</h2>
-
+    <br/>
+    <h3>Étape 1 : Démontage</h3>
+    <p class="paragraphe">
+        Pour le démontage des friens avant, nous commençons par retirer le connecteur de temoin de frein et la clavette de maintient des plaquettes.
+        Nous retirons également les parties métalliques de maintient, puis les plaquettes.
+        Nous retirons ensuite les deux vis de maintien en position des disques puis nous déposons l'ancien disque de frein.
+    </p>
+    <br/>
+    <div class="container">
+		<div class="row">
+			<div class="col-sm">
+				<figure class="figure">
+                    <img src="/images/brakes-replacement/7.jpg" class="figure-img img-fluid rounded" alt="Old front brakes">
+                    <figcaption class="figure-caption text-right text-light">Apperçu de l'étrier de frein avant changement des pièces</figcaption>
+                </figure>
+			</div>
+            <div class="col-1"></div>
+			<div class="col-sm">
+				<figure class="figure">
+                    <img src="/images/brakes-replacement/8.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
+                    <figcaption class="figure-caption text-right text-light">Ancien disque de frein</figcaption>
+                </figure>
+		  	</div>
+		</div>
+	</div>
+    <br/>
+    <h3>Étape 2 : Nettoyge</h3>
+    <br/>
+    <p class="paragraphe">
+        Nous commençons par frotter l'étrier et la partie sur laquelle se pose le disque avec une brosse puis nous dégraissons les surfaces avec du nettoyant frein.
+        Nous appliquons ensuite un spray antirouille pour la protection des pièces. Nous laissons sécher avant de passer au remontage.
+    </p>
+    <br/>
+    <figure class="figure">
+        <img src="/images/brakes-replacement/9.jpg" class="figure-img img-fluid rounded" alt="Brake cleanning">
+        <figcaption class="figure-caption text-right text-light">Nettoyage avant remontage</figcaption>
+    </figure>
+    <br/><br/>
+    <h3>Étape 3 : Remontage</h3>
+    <br/>
+    <p class="paragraphe">
+        Pour le remontage, il suffit de suivre la procédure inverse. Nous commençons par remonter le disque, puis les plaquettes de freins. Nous remmettons en place la clavette et les ressorts de maintient.
+        Nous terminons par reconnecter le temoin de frein.
+    </p>
+    <p class="paragraphe">
+        Voici le résultat que nous obtenons.
+    </p>
+    <br/>
+    <div class="container">
+		<div class="row">
+			<div class="col-sm">
+				<figure class="figure">
+                    <img src="/images/brakes-replacement/10.jpg" class="figure-img img-fluid rounded" alt="New front brake Brembo">
+                    <figcaption class="figure-caption text-right text-light">Nouveau disque de frein rainuré Brembo</figcaption>
+                </figure>
+			</div>
+            <div class="col-1"></div>
+			<div class="col-sm">
+				<figure class="figure">
+                    <img src="/images/brakes-replacement/11.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
+                    <figcaption class="figure-caption text-right text-light">Nouvelles plaquettes de frein Brembo</figcaption>
+                </figure>
+		  	</div>
+		</div>
+	</div>
+    <span class="badge badge-accent">Attention</span>
+    <p class="paragraphe">
+         Le remplacement du cylindre de frein arrière implique l'ouverture du circuit de freinage. Il faut donc impérativement faire une purge du liquide de frein avant de reprendre la route. Cette étape est délicate car la moindre bulle d'air dans le liquide peut être fatale.
+    </p>
+    <p class="paragraphe">
+        Nous conssacrerons donc un article entier pour cette manoeuvre que nous réaliserons dans les prochaines semaines.
+    </p>
 </div>
 
 
