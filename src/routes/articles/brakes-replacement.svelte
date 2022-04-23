@@ -49,10 +49,10 @@
     <br/>
     <p class="paragraphe">
         Une fois le tambour déposé, nous avons accès à la machoire et aux segments garnis. Avant de démonter l'ancien kit de frein, nous avons vérifié que le nouveau était identique.
-        Nous avons enlevé les deux ressorts de maintient et retiré le câble de frein a main à l'aide de deux pinces. 
+        Nous avons enlevé les deux ressorts de maintien et retiré le câble de frein à main à l'aide de deux pinces. 
     </p>
     <p class="paragraphe">
-        A cette étape, il faudrait normalement remplacer le cylindre de roue, chose que nous avons décidé de ne pas faire car l'arrivée du circuit de liquide de frein est tellement soudé par la rouille que nous ne voulions pas casser la pièce. Nous remplacerons cette pièce dans le futur lorsque nous changerons l'intégralité des tuyaux du circuit de frein.
+        A cette étape, il faudrait normalement remplacer le cylindre de frein, chose que nous avons décidé de ne pas faire car l'arrivée du circuit de liquide de frein était tellement soudée par la rouille que nous ne voulions pas casser la pièce. Nous remplacerons cette pièce dans le futur lorsque nous changerons l'intégralité des tuyaux du circuit de frein.
         Nous avons également protégé les roulements pour appliquer un peu de convertisseur de rouille sur la flasque afin de lui redonner un état plus rassurant.
     </p>
     <br/>
@@ -84,7 +84,7 @@
                     Nous avons ensuite bien nettoyé avec du nettoyant frein la flasque, la bande roulement du tambour, et le roulement à rouleaux coniques. Puis nous avons séché le tout avec un chiffon propre. Nous avons ensuite appliqué la graisse haute température fournie dans le kit sur les emplacement où repose les nouvelles machoires de frein et de la graisse solide adaptée sur les roulements.
                 </p>
                 <p class="paragraphe">
-                    Nous sommes ensuite passé au remontage, d'abord nous avons reconnecté le câble de frein à main, puis remis en place les machoires, bien alignées sur le cylindre et la butée. Nous avons ensuite remis les ressorts de maintien et enfin le tambour. Le tambours doit frotter très légèrement et uniformément quand on le tourne. Sur certaines voiture, nous pouvons agir sur le ressort de rattrapage automatique de jeu de frein. Ce n'est pas notre cas sur notre Peueot 205.
+                    Nous sommes ensuite passé au remontage, d'abord nous avons reconnecté le câble de frein à main, puis remis en place les machoires, bien alignées sur le cylindre et la butée. Nous avons ensuite remis les ressorts de maintien et enfin le tambour. Le tambours doit frotter très légèrement et uniformément quand on le tourne. Sur certaines voitures, nous pouvons agir sur le ressort de rattrapage automatique de jeu de frein. Ce n'est pas notre cas sur notre Peugeot 205.
                 </p>
 			</div>
             <div class="col-1"></div>
@@ -112,8 +112,8 @@
     <br/>
     <h3>Étape 1 : Démontage</h3>
     <p class="paragraphe">
-        Pour le démontage des friens avant, nous commençons par retirer le connecteur de temoin de frein et la clavette de maintient des plaquettes.
-        Nous retirons également les parties métalliques de maintient, puis les plaquettes.
+        Pour le démontage des friens avant, nous commençons par retirer le connecteur de temoin de frein et la clavette de maintien des plaquettes.
+        Nous retirons également les parties métalliques de maintien, puis les plaquettes.
         Nous retirons ensuite les deux vis de maintien en position des disques puis nous déposons l'ancien disque de frein.
     </p>
     <br/>
@@ -129,7 +129,7 @@
 			<div class="col-sm">
 				<figure class="figure">
                     <img src="/images/brakes-replacement/8.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
-                    <figcaption class="figure-caption text-right text-light">Ancien disque de frein</figcaption>
+                    <figcaption class="figure-caption text-right text-light">Dépose de l'ancien disque de frein</figcaption>
                 </figure>
 		  	</div>
 		</div>
@@ -150,7 +150,7 @@
     <h3>Étape 3 : Remontage</h3>
     <br/>
     <p class="paragraphe">
-        Pour le remontage, il suffit de suivre la procédure inverse. Nous commençons par remonter le disque, puis les plaquettes de freins. Nous remmettons en place la clavette et les ressorts de maintient.
+        Pour le remontage, il suffit de suivre la procédure inverse. Nous commençons par remonter le disque, puis les plaquettes de freins. Nous remmettons en place la clavette et les ressorts de maintien des disques.
         Nous terminons par reconnecter le temoin de frein.
     </p>
     <p class="paragraphe">
@@ -176,11 +176,17 @@
 	</div>
     <span class="badge badge-accent">Attention</span>
     <p class="paragraphe">
-         Le remplacement du cylindre de frein arrière implique l'ouverture du circuit de freinage. Il faut donc impérativement faire une purge du liquide de frein avant de reprendre la route. Cette étape est délicate car la moindre bulle d'air dans le liquide peut être fatale.
+         Le remplacement du cylindre de frein arrière implique l'ouverture du circuit de freinage. Il faut donc impérativement faire une purge du liquide de frein avant de reprendre la route. Cette étape est délicate car la moindre bulle d'air dans le circuit de liquide de freinage peut être fatale.
+         Nous conssacrerons donc un article entier pour cette manoeuvre que nous réaliserons dans les prochaines semaines.
     </p>
-    <p class="paragraphe">
-        Nous conssacrerons donc un article entier pour cette manoeuvre que nous réaliserons dans les prochaines semaines.
-    </p>
+    <br/><br/>
+    <h3>Liste de pièces utilisées</h3>
+    <br/>
+    <ul class="list">
+        <li>Disque de frein Brembo, profil ventilé, gamme sport : <a target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/disc/08-2985-75">Disques de frein Brembo 08-2985-75</a></li>
+        <li>Jeu de plaquettes Brembo pour système de freinage Bendix : <a target="_blank" href="https://www.bremboparts.com/europe/fr/catalogue/pad/P_68_010">Plaquettes de frein Brembo P_68_010</a></li>
+        <li>Kit de frein à tambours Bosch : <a target="_blank" href="https://www.oscaro.com/kit-de-freins-a-tambours-bosch-0-204-114-063-13051-3859-p#">Kit de frein à tambours Bosch <span class="not_sponso">(non-sponsorisé)</span></a></li>
+    </ul>
 </div>
 
 
@@ -209,6 +215,12 @@
 
     .quartiary-color {
         color: var(--quartiary-color);
+    }
+
+    .not_sponso {
+        color: red;
+        font-size: x-small;
+        font-style: italic;
     }
 
     h2 {
