@@ -31,14 +31,14 @@
 		<div class="row">
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/1.jpg" class="figure-img img-fluid rounded" alt="Initial brake">
+                    <img loading="lazy" src="/images/brakes_replacement/1.jpg" class="figure-img img-fluid rounded" alt="Initial brake">
                     <figcaption class="figure-caption text-right text-light">Dépose de  l'écrou freiné</figcaption>
                 </figure>
 			</div>
             <div class="col-1"></div>
 			<div class="col-sm">
                 <figure class="figure">
-                    <img src="/images/brakes-replacement/2.jpg" class="figure-img img-fluid rounded" alt="Initial brake">
+                    <img loading="lazy" src="/images/brakes_replacement/2.jpg" class="figure-img img-fluid rounded" alt="Initial brake">
                     <figcaption class="figure-caption text-right text-light">Aperçu de profil du tambour de frein avant ouverture</figcaption>
                 </figure>
 		  	</div>
@@ -60,14 +60,14 @@
 		<div class="row">
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/3.jpg" class="figure-img img-fluid rounded" alt="Old brake kit">
+                    <img loading="lazy" src="/images/brakes_replacement/3.jpg" class="figure-img img-fluid rounded" alt="Old brake kit">
                     <figcaption class="figure-caption text-right text-light">Aperçu de l'ancien kit de frein</figcaption>
                 </figure>
 			</div>
             <div class="col-1"></div>
 			<div class="col-sm">
                 <figure class="figure">
-                    <img src="/images/brakes-replacement/4.jpg" class="figure-img img-fluid rounded" alt="Brake fluid arrival">
+                    <img loading="lazy" src="/images/brakes_replacement/4.jpg" class="figure-img img-fluid rounded" alt="Brake fluid arrival">
                     <figcaption class="figure-caption text-right text-light">Raccordement rouillé du circuit de freinage</figcaption>
                 </figure>
 		  	</div>
@@ -90,7 +90,7 @@
             <div class="col-1"></div>
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/5.jpg" class="figure-img img-fluid rounded" alt="Lubrication">
+                    <img loading="lazy" src="/images/brakes_replacement/5.jpg" class="figure-img img-fluid rounded" alt="Lubrication">
                     <figcaption class="figure-caption text-right text-light">Graissage de la flasque et roulements avant remontage</figcaption>
                 </figure>
 		  	</div>
@@ -101,7 +101,7 @@
         Voici le résultat final avant remise en place du tambour.
     </p>
     <figure class="figure">
-        <img src="/images/brakes-replacement/6.jpg" class="figure-img img-fluid rounded" alt="New brake kit">
+        <img src="/images/brakes_replacement/6.jpg" class="figure-img img-fluid rounded" alt="New brake kit">
         <figcaption class="figure-caption text-right text-light">Nouveau kit de frein</figcaption>
     </figure>
 
@@ -121,14 +121,14 @@
 		<div class="row">
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/7.jpg" class="figure-img img-fluid rounded" alt="Old front brakes">
+                    <img loading="lazy" src="/images/brakes_replacement/7.jpg" class="figure-img img-fluid rounded" alt="Old front brakes">
                     <figcaption class="figure-caption text-right text-light">Apperçu de l'étrier de frein avant changement des pièces</figcaption>
                 </figure>
 			</div>
             <div class="col-1"></div>
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/8.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
+                    <img loading="lazy" src="/images/brakes_replacement/8.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
                     <figcaption class="figure-caption text-right text-light">Dépose de l'ancien disque de frein</figcaption>
                 </figure>
 		  	</div>
@@ -143,7 +143,7 @@
     </p>
     <br/>
     <figure class="figure">
-        <img src="/images/brakes-replacement/9.jpg" class="figure-img img-fluid rounded" alt="Brake cleanning">
+        <img loading="lazy" src="/images/brakes_replacement/9.jpg" class="figure-img img-fluid rounded" alt="Brake cleanning">
         <figcaption class="figure-caption text-right text-light">Nettoyage avant remontage</figcaption>
     </figure>
     <br/><br/>
@@ -161,14 +161,14 @@
 		<div class="row">
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/10.jpg" class="figure-img img-fluid rounded" alt="New front brake Brembo">
+                    <img loading="lazy" src="/images/brakes_replacement/10.jpg" class="figure-img img-fluid rounded" alt="New front brake Brembo">
                     <figcaption class="figure-caption text-right text-light">Nouveau disque de frein rainuré Brembo</figcaption>
                 </figure>
 			</div>
             <div class="col-1"></div>
 			<div class="col-sm">
 				<figure class="figure">
-                    <img src="/images/brakes-replacement/11.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
+                    <img loading="lazy" src="/images/brakes_replacement/11.jpg" class="figure-img img-fluid rounded" alt="Old brake disk">
                     <figcaption class="figure-caption text-right text-light">Nouvelles plaquettes de frein Brembo</figcaption>
                 </figure>
 		  	</div>
@@ -201,22 +201,6 @@
 		color: white;
 	}
 
-    .accent-color {
-        color: var(--accent-color);
-    }
-
-    .secondary-color {
-        color: var(--secondary-color);
-    }
-
-    .tertiary-color {
-        color: var(--tertiary-color);
-    }
-
-    .quartiary-color {
-        color: var(--quartiary-color);
-    }
-
     .not_sponso {
         color: red;
         font-size: x-small;
@@ -240,22 +224,6 @@
 
     .badge-accent {
         background-color: var(--accent-color);
-    }
-
-    .badge-primary {
-        background-color: var(--primary-color);
-    }
-
-    .badge-secondary {
-        background-color: var(--secondary-color);
-    }
-
-    .badge-tertiary {
-        background-color: var(--tertiary-color);
-    }
-
-    .badge-quartiary {
-        background-color: var(--quartiary-color);
     }
 
     .figure-caption {
