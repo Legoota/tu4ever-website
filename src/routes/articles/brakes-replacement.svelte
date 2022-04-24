@@ -84,7 +84,7 @@
                     Nous avons ensuite bien nettoyé avec du nettoyant frein la flasque, la bande roulement du tambour, et le roulement à rouleaux coniques. Puis nous avons séché le tout avec un chiffon propre. Nous avons ensuite appliqué la graisse haute température fournie dans le kit sur les emplacements où reposent les nouvelles machoires de frein et de la graisse solide adaptée sur les roulements.
                 </p>
                 <p class="paragraphe">
-                    Nous sommes ensuite passé au remontage, d'abord nous avons reconnecté le câble de frein à main, puis remis en place les machoires, bien alignées sur le cylindre et la butée. Nous avons ensuite remis les ressorts de maintien et enfin le tambour. Le tambours doit frotter très légèrement et uniformément quand on le tourne. Sur certaines voitures, nous pouvons agir sur le ressort de rattrapage automatique de jeu de frein. Ce n'est pas notre cas sur notre Peugeot 205.
+                    Nous sommes ensuite passés au remontage. Tout d'abord, nous avons reconnecté le câble de frein à main, puis remis en place les mâchoires, bien alignées sur le cylindre et la butée. Nous avons ensuite remis les ressorts de maintien et enfin le tambour. Le tambour doit frotter très légèrement et uniformément quand on le tourne. Sur certaines voitures, nous pouvons agir sur le ressort de rattrapage automatique de jeu de frein. Ce n'est pas notre cas sur notre Peugeot 205.
                 </p>
 			</div>
             <div class="col-1"></div>
