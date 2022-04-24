@@ -112,7 +112,7 @@
     <br/>
     <h3>Étape 1 : Démontage</h3>
     <p class="paragraphe">
-        Pour le démontage des friens avant, nous commençons par retirer le connecteur de temoin de frein et la clavette de maintien des plaquettes.
+        Pour le démontage des freins avant, nous commençons par retirer le connecteur de témoin de frein et la clavette de maintien des plaquettes.
         Nous retirons également les parties métalliques de maintien, puis les plaquettes.
         Nous retirons ensuite les deux vis de maintien en position des disques puis nous déposons l'ancien disque de frein.
     </p>
