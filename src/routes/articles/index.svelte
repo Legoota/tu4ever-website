@@ -115,16 +115,6 @@
                     </div>
                 </div>
             </div>
-            <div class="card card-article mobile-card" style="width: 80%;">
-                <img class="card-img-top" src="{miniatureBumper}" alt="Bumper supports">
-                <div class="card-body">
-                    <h5 class="card-title">Maintien des parechocs</h5>
-                    <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de supports des parechocs avant et arrière.</p>
-                    <div class="row mx-auto d-block">
-                        <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
-                    </div>
-                </div>
-            </div>
 
             <div class="card card-article mobile-card" style="width: 80%;">
                 <img class="card-img-top" src="{miniatureFreins}" alt="Brakes">
@@ -133,6 +123,17 @@
                     <p class="card-text card-article-short">Nous avons enfin remplacé les freins avant et arrière de notre Peugeot 205. Il était temps...</p>
                     <div class="row mx-auto d-block">
                         <a sveltekit:prefetch href="/articles/brakes-replacement/" class="btn card-article-btn">Lire</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card card-article mobile-card" style="width: 80%;">
+                <img class="card-img-top" src="{miniatureBumper}" alt="Bumper supports">
+                <div class="card-body">
+                    <h5 class="card-title">Maintien des parechocs</h5>
+                    <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de supports des parechocs avant et arrière.</p>
+                    <div class="row mx-auto d-block">
+                        <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
                     </div>
                 </div>
             </div>

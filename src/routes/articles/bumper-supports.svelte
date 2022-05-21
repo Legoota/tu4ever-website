@@ -10,7 +10,7 @@
     <br/><br/>
     <p class="paragraphe">
         Durant la réfection des parechocs de notre Peugeot 205, nous avons remarqué que les supports qui les maintenaient à l'arrière étaient en mauvais état à cause de la rouille.
-        De plus, comme nous avons remplacé la jupe avant d'origine par une jupe de Peugeot 205 GTI et que nous avons décidé d'y inclure les phares longue portée, nous avons du reconcevoir des pièces de supports.
+        De plus, comme nous avons remplacé la jupe avant d'origine par une jupe de Peugeot 205 GTI et que nous avons décidé d'y inclure les phares longue portée, nous avons dû reconcevoir des pièces de supports.
     </p>
 
     <p class="paragraphe">
@@ -61,8 +61,8 @@
     <p class="paragraphe">Nous réitérons l'opération pour réaliser une seconde pièce de support pour en mettre une de chaque côté, comme à l'origine.</p>
 
     <p class="paragraphe">
-        <span class="badge badge-accent">Attention</span> Les pièces ont peut être besoin d'être adaptées à la forme exacte de votre carrosserie. Par exemple, nous avons légèrement meuler des arrondis plus prononcés pour les
-        supports avant pour ne pas géner la fixation, et nous avons également redresser l'angle droit pour que notre pièce épouse la forme du châssis.
+        <span class="badge badge-accent">Attention</span> Les pièces ont peut être besoin d'être adaptées à la forme exacte de votre carrosserie. Par exemple, nous avons légèrement meulé des arrondis plus prononcés pour les
+        supports avant pour ne pas gêner la fixation, et nous avons également redressé l'angle droit pour que notre pièce épouse la forme du châssis.
 	</p>
 
     <br/>
@@ -73,7 +73,7 @@
 
     <p class="paragraphe">Au sujet des supports de la jupe avant, nous avons dû prendre les mesures nous même étant donné que lors de notre achat de la jupe avant, nous n'avions pas les supports fournis.</p>
 
-    <p class="paragraphe">Concernant les trous, nous avions besoin de faire passer les vis larges des phares longue portée, donc les pièces comportent des trous plus larges que les supports arrière.</p>
+    <p class="paragraphe">Concernant les trous, nous avions besoin de faire passer les vis larges des phares longue portée, donc les pièces comportent des trous plus larges que ceux sur les supports arrière.</p>
 
     <div class="text-center">
         <figure class="figure">
