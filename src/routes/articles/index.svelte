@@ -3,6 +3,7 @@
     let miniatureNettoyage = "images/interior_washing/miniature.jpg"
     let miniatureJantes = "images/wheels_repair/miniature.jpg"
     let miniatureFreins = "images/brakes_replacement/miniature.jpg"
+    let miniatureBumper = "images/bumper_supports/miniature.jpg";
 </script>
 
 <svelte:head>
@@ -57,7 +58,16 @@
 
             <div class="row">
                 <div class="col-sm">
-                    <!-- CARTE ICI-->
+                    <div class="card card-article" style="width: 20rem;">
+                        <img class="card-img-top" src="{miniatureBumper}" alt="Bumper supports">
+                        <div class="card-body">
+                            <h5 class="card-title">Maintien des parechocs</h5>
+                            <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de supports des parechocs avant et arrière.</p>
+                            <div class="row mx-auto d-block">
+                                <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-sm">
                     <!-- CARTE ICI-->
@@ -102,6 +112,16 @@
                     <p class="card-text card-article-short">Nous avons restauré des jantes de 205 GTI 1.6 à la maison, et nous vous expliquons les différentes étapes.</p>
                     <div class="row mx-auto d-block">
                         <a sveltekit:prefetch href="/articles/wheels-repair/" class="btn card-article-btn">Lire</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card card-article mobile-card" style="width: 80%;">
+                <img class="card-img-top" src="{miniatureBumper}" alt="Bumper supports">
+                <div class="card-body">
+                    <h5 class="card-title">Maintien des parechocs</h5>
+                    <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de supports des parechocs avant et arrière.</p>
+                    <div class="row mx-auto d-block">
+                        <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
                     </div>
                 </div>
             </div>
