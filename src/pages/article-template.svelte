@@ -175,12 +175,12 @@
 
     h2 {
         font-size: x-large;
-        text-align: center;
+        text-align: left;
     }
 
     h3 {
         font-size: large;
-        text-align: center;
+        text-align: left;
         color: var(--accent-color);
     }
 
