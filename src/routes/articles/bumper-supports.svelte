@@ -97,7 +97,8 @@
         </figure>
     </div>
 
-    <p class="paragraphe">Nous faisons deux pièces semblables, une pour chaque côté, que nous fixons entre le châssis et la jupe (en utilisant la vis fournie avec les phares longue portée)</p>
+    <p class="paragraphe">Nous faisons deux pièces semblables, une pour chaque côté, que nous fixons entre le châssis et la jupe (en utilisant la vis fournie avec les phares longue portée).</p>
+    <p class="paragraphe">Nous avons à présent des supports avant et arrière permettant de rendre les jupes de notre Peugeot plus solides.</p>
 	
 </div>
 
