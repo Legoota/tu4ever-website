@@ -62,7 +62,7 @@
                         <img class="card-img-top" src="{miniatureBumper}" alt="Bumper supports">
                         <div class="card-body">
                             <h5 class="card-title">Maintien des parechocs</h5>
-                            <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de supports des parechocs avant et arrière.</p>
+                            <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de support des parechocs avant et arrière.</p>
                             <div class="row mx-auto d-block">
                                 <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
                             </div>
@@ -131,7 +131,7 @@
                 <img class="card-img-top" src="{miniatureBumper}" alt="Bumper supports">
                 <div class="card-body">
                     <h5 class="card-title">Maintien des parechocs</h5>
-                    <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de supports des parechocs avant et arrière.</p>
+                    <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de support des parechocs avant et arrière.</p>
                     <div class="row mx-auto d-block">
                         <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
                     </div>
