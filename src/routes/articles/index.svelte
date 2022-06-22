@@ -4,6 +4,7 @@
     let miniatureJantes = "images/wheels_repair/miniature.jpg"
     let miniatureFreins = "images/brakes_replacement/miniature.jpg"
     let miniatureBumper = "images/bumper_supports/miniature.jpg";
+    let miniatureRoofrack = "images/roofrack/miniature.jpg";
 </script>
 
 <svelte:head>
@@ -70,7 +71,16 @@
                     </div>
                 </div>
                 <div class="col-sm">
-                    <!-- CARTE ICI-->
+                    <div class="card card-article" style="width: 20rem;">
+                        <img class="card-img-top" src="{miniatureRoofrack}" alt="Galerie de toit">
+                        <div class="card-body">
+                            <h5 class="card-title">Galerie de toit</h5>
+                            <p class="card-text card-article-short">Nous avons conçu notre galerie de toit sur mesure en inox pour transporter nos affaires.</p>
+                            <div class="row mx-auto d-block">
+                                <a sveltekit:prefetch href="/articles/roofrack/" class="btn card-article-btn">Lire</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-sm">
                     <!-- CARTE ICI-->
@@ -134,6 +144,17 @@
                     <p class="card-text card-article-short">Nous avons refabriqué à la maison des pièces de support des parechocs avant et arrière.</p>
                     <div class="row mx-auto d-block">
                         <a sveltekit:prefetch href="/articles/bumper-supports/" class="btn card-article-btn">Lire</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card card-article mobile-card" style="width: 80%;">
+                <img class="card-img-top" src="{miniatureRoofrack}" alt="Galerie de toit">
+                <div class="card-body">
+                    <h5 class="card-title">Galerie de toit</h5>
+                    <p class="card-text card-article-short">Nous avons conçu notre galerie de toit sur mesure en inox pour transporter nos affaires.</p>
+                    <div class="row mx-auto d-block">
+                        <a sveltekit:prefetch href="/articles/roofrack/" class="btn card-article-btn">Lire</a>
                     </div>
                 </div>
             </div>
