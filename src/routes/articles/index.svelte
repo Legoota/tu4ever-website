@@ -71,6 +71,9 @@
                     </div>
                 </div>
                 <div class="col-sm">
+                    <!-- CARTE ICI-->
+                </div>
+                <div class="col-sm">
                     <div class="card card-article" style="width: 20rem;">
                         <img class="card-img-top" src="{miniatureRoofrack}" alt="Galerie de toit">
                         <div class="card-body">
@@ -81,9 +84,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm">
-                    <!-- CARTE ICI-->
+                    
                 </div>
             </div>
         </div>

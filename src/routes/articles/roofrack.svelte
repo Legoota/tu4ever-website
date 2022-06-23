@@ -6,99 +6,123 @@
 </svelte:head>
 
 <div class="content">
-	<h1>Fabrication des supports de parechocs</h1>
+	<h1>Conception d'une galerie de toit sur mesure</h1>
     <br/><br/>
     <p class="paragraphe">
-        Durant la réfection des parechocs de notre Peugeot 205, nous avons remarqué que les supports qui les maintenaient à l'arrière étaient en mauvais état à cause de la rouille.
-        De plus, comme nous avons remplacé la jupe avant d'origine par une jupe de Peugeot 205 GTI et que nous avons décidé d'y inclure les phares longue portée, nous avons dû reconcevoir des pièces de support.
+        Afin de pouvoir transporter plus d'affaires facilement, nous avons rapidement réalisé qu'il serait nécessaire d'utiliser le toit de la voiture. Nous avons commencé par acquérir deux barres de toit
+        sur le marché de l'occasion, mais nous savions que nous allions y rajouter une galerie pour agrandir la surface de stockage utilisable.
+        Au départ, nous pensions acheter une galerie classique trouvable en occasion, puis nous nous sommes mis en quête de concevoir notre galerie sur mesure.
     </p>
 
     <p class="paragraphe">
-        Bien sûr, ces pièces sont disponible à l'achat et pas forcément très onéreuses, mais nous voulions d'une part réduire le coup du projet, et de l'autre avoir la fierté des faire certaines de nos pièces à la maison.
-        Nous vous expliquons dans cet article comment refaire ces pièces chez vous si vous souhaitez changer les vôtres.
-    </p>
-    <p class="paragraphe">
-        Pour fabriquer nos nouvelles pièces, nous avons choisi de prendre une baguette d'inox de 1.5mm d'épaisseur, par 20mm de largeur et 1000mm de longueur, découpable et pliable facilement.
+        Cette galerie n'aurait pas été possible sans notre partenaire <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a>, le site de découpe de métal et de bois en ligne, qui a réalisé la découpe au laser
+        de notre plaque. Nous les remercions très chaleureusement !
     </p>
 
     <br/>
-    <h2>Supports arrière</h2>
+    <h2>Phase de conception</h2>
     <br/>
-    <h3>Étape 1 : Conception</h3>
-    <br/>
-
-    <p class="paragraphe">Concernant les supports de la jupe arrière, nous avons démonté les deux supports rouillés déjà existants, pour ensuite prendre leurs mesures et ainsi pouvoir les refaire à neuf.</p>
-
-    <div class="text-center">
-        <figure class="figure">
-            <img loading="lazy" src="/images/bumper_supports/support-arriere-comparaison.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Comparaison ancienne nouvelle">
-            <figcaption class="figure-caption text-right text-light">Comparaison de l'ancienne pièce à côté de la nouvelle</figcaption>
-        </figure>
-    </div>
-
-    <div class="text-center">
-        <figure class="figure">
-            <img loading="lazy" src="/images/bumper_supports/mep-arr.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan fixation arrière">
-            <figcaption class="figure-caption text-right text-light">Mise en plan du support arrière</figcaption>
-        </figure>
-    </div>
-
-    <br/>
-    <h3>Étape 2 : Fabrication</h3>
+    <h3>Étape 1 : Création du plan</h3>
     <br/>
 
-    <p class="paragraphe">Nous avons donc découpé une partie de notre baguette d'inox, que nous avons ensuite percée aux deux extrémités, puis pliée dans un étau à l'aide de cales en bois.</p>
-
-    <p class="paragraphe">Ensuite, nous l'avons fixée à l'aide de rivets, pour un bon maintien de la jupe arrière.</p>
-
-    <div class="text-center">
-        <figure class="figure">
-            <img loading="lazy" src="/images/bumper_supports/support-arriere.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Nouveau support arrière en place">
-            <figcaption class="figure-caption text-right text-light">Nouveau support en place</figcaption>
-        </figure>
-    </div>
-
-    <p class="paragraphe">Nous réitérons l'opération pour réaliser une seconde pièce de support pour en mettre une de chaque côté, comme à l'origine.</p>
+    <p class="paragraphe">Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les barres de toit. Nous avons donc
+        commencé par mesurer l'entraxe entre celles-ci pour déterminer la position des trous. Nous avons aussi mesuré la taille maximale possible que notre galerie pouvait mesurer, et nous avons
+        décidé ensuite de réaliser une galerie de 1200mm x 1000mm.
+    </p>
 
     <p class="paragraphe">
-        <span class="badge badge-accent">Attention</span> Les pièces ont peut être besoin d'être adaptées à la forme exacte de votre carrosserie. Par exemple, nous avons légèrement meulé des arrondis plus prononcés pour les
-        supports avant pour ne pas gêner la fixation, et nous avons également redressé l'angle droit pour que notre pièce épouse la forme du châssis.
+        <span class="badge badge-accent">A noter</span> Il faut bien s'assurer de ne pas faire une galerie trop large sous peine de ne plus être dans les règles, ainsi que de ne pas la faire trop longue pour pouvoir 
+        encore ouvrir le coffre et conserver une bonne visibilité !
+	</p>
+
+    <p class="paragraphe">Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des sangles de différentes manières pour fixer de manière convenable nos équipements.
+        De la même manière, afin d'améliorer la rigidité de notre galerie, nous avons prévu de mettre des cornières perforées, permettant de solidifier la plaque et d'offrir des fixations supplémentaires. Nous prévoyons des trous
+        réguliers tout le long des bords de notre galerie pour la fixer.
+    </p>
+
+    <p class="paragraphe">Vous trouverez sur les images ci-dessous la mise en plan de notre galerie: Les petits trous le long de la plaque sont prévus en M5, les 6 trous plus grands pour fixer la plaque aux barres de toit sont prévus en M8.</p>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img loading="lazy" src="/images/roofrack/mep-galerie.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan galerie">
+            <figcaption class="figure-caption text-right text-light">Mise en plan de la galerie</figcaption>
+        </figure>
+    </div>
+
+    <p class="paragraphe">Concernant les trous oblongs pour passer les sangles, nous avons décidé de les réaliser aux dimensions suivantes :</p>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img loading="lazy" src="/images/roofrack/mep-oblongs.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan détail oblong">
+            <figcaption class="figure-caption text-right text-light">Détail A : oblongs</figcaption>
+        </figure>
+    </div>
+
+    <br/>
+    <h3>Étape 2 : Découpe de la plaque</h3>
+    <br/>
+
+    <p class="paragraphe">Bla</p>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img loading="lazy" src="/images/roofrack/roofrack-1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Plaque découpée">
+            <figcaption class="figure-caption text-right text-light">Plaque découpée</figcaption>
+        </figure>
+    </div>
+
+    <p class="paragraphe">
+        <span class="badge badge-accent">houla</span> bla
 	</p>
 
     <br/>
-    <h2>Supports avant</h2>
+    <h2>Phase d'assemblage</h2>
     <br/>
-    <h3>Étape 1 : Conception</h3>
+    <h3>Étape 1 : Fixation des cornières</h3>
     <br/>
 
-    <p class="paragraphe">Au sujet des supports de la jupe avant, nous avons dû prendre les mesures nous même étant donné que lors de notre achat de la jupe avant, nous n'avions pas les supports fournis.</p>
-
-    <p class="paragraphe">Concernant les trous, nous avions besoin de faire passer les vis larges des phares longue portée, donc les pièces comportent des trous plus larges que ceux sur les supports arrière.</p>
+    <p class="paragraphe">bla rigidité</p>
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/bumper_supports/mep-av.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan fixation avant">
-            <figcaption class="figure-caption text-right text-light">Mise en plan du support avant</figcaption>
+            <img loading="lazy" src="/images/roofrack/roofrack-2.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Cornières fixées">
+            <figcaption class="figure-caption text-right text-light">Cornières fixées sur la galerie</figcaption>
         </figure>
     </div>
 
     <br/>
-    <h3>Étape 2 : Fabrication</h3>
+    <h3>Étape 2 : Fixation de la galerie sur les barres de toit</h3>
     <br/>
 
-    <p class="paragraphe">Pour la fabrication, nous reprenons le même processus que dans la première partie sur les supports arrière : nous découpons une partie de la baguette d'inox à la longueur souhaitée,
-        nous perçons puis nous plions dans un étau.
+    <p class="paragraphe">Bla
     </p>
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/bumper_supports/support-avant.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Nouveau support avant en place">
-            <figcaption class="figure-caption text-right text-light">Nouveau support en place</figcaption>
+            <img loading="lazy" src="/images/roofrack/roofrack-3.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie fixée">
+            <figcaption class="figure-caption text-right text-light">Galerie fixée sur les barres de toit</figcaption>
         </figure>
     </div>
 
-    <p class="paragraphe">Nous faisons deux pièces semblables, une pour chaque côté, que nous fixons entre le châssis et la jupe (en utilisant la vis fournie avec les phares longue portée).</p>
-    <p class="paragraphe">Nous avons à présent des supports avant et arrière permettant de rendre les jupes de notre Peugeot plus solides.</p>
+    <p class="paragraphe">Bla</p>
+
+    <br/>
+    <h2>Résultat</h2>
+    <br/>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img loading="lazy" src="/images/roofrack/roofrack-4.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie en place">
+            <figcaption class="figure-caption text-right text-light">Résultat (galerie chargée)</figcaption>
+        </figure>
+    </div>
+
+    <div class="text-center">
+        <figure class="figure">
+            <img loading="lazy" src="/images/roofrack/roofrack-5.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie en place">
+            <figcaption class="figure-caption text-right text-light">Résultat (voiture complète)</figcaption>
+        </figure>
+    </div>
 	
 </div>
 
