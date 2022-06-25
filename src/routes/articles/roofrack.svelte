@@ -25,7 +25,8 @@
     <h3>Étape 1 : Création du plan</h3>
     <br/>
 
-    <p class="paragraphe">Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les barres de toit. Nous avons donc
+    <p class="paragraphe">
+        Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les barres de toit. Nous avons donc
         commencé par mesurer l'entraxe entre celles-ci pour déterminer la position des trous. Nous avons aussi mesuré la taille maximale possible que notre galerie pouvait mesurer, et nous avons
         décidé ensuite de réaliser une galerie de 1200mm x 1000mm.
     </p>
@@ -35,12 +36,15 @@
         encore ouvrir le coffre et conserver une bonne visibilité !
 	</p>
 
-    <p class="paragraphe">Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des sangles de différentes manières pour fixer de manière convenable nos équipements.
+    <p class="paragraphe">
+        Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des sangles de différentes manières pour fixer de manière convenable nos équipements.
         De la même manière, afin d'améliorer la rigidité de notre galerie, nous avons prévu de mettre des cornières perforées, permettant de solidifier la plaque et d'offrir des fixations supplémentaires. Nous prévoyons des trous
-        réguliers tout le long des bords de notre galerie pour la fixer.
+        réguliers tout le long des bords de notre galerie pour les fixer.
     </p>
 
-    <p class="paragraphe">Vous trouverez sur les images ci-dessous la mise en plan de notre galerie: Les petits trous le long de la plaque sont prévus en M5, les 6 trous plus grands pour fixer la plaque aux barres de toit sont prévus en M8.</p>
+    <p class="paragraphe">
+        Vous trouverez sur les images ci-dessous la mise en plan de notre galerie : Les petits trous le long de la plaque sont prévus en M5, les 6 trous plus grands pour fixer la plaque aux barres de toit sont prévus en M8.
+    </p>
 
     <div class="text-center">
         <figure class="figure">
@@ -62,7 +66,19 @@
     <h3>Étape 2 : Découpe de la plaque</h3>
     <br/>
 
-    <p class="paragraphe">Bla</p>
+    <p class="paragraphe">
+        Une fois notre plan réalisé, nous l'avons édité sur un logiciel de CAO (dans notre cas, Fusion360) pour en sortir un fichier DXF, adapté à la découpe.
+    </p>
+    <p class="paragraphe">
+        C'est à ce moment que notre partenaire <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est entré en jeu. John-Steel est un site
+        de découpe sur-mesure de métal et de bois, permettant aux particuliers de déposer leur fichier DXF ou d'utiliser l'éditeur en ligne pour concevoir leurs pièces
+        et obtenir un prix en temps direct.
+    </p>
+    <p class="paragraphe">Nous avons donc envoyé notre fichier DXF sur le site John-Steel, puis avons sélectionné la matière souhaitée (Inox 304L en épaisseur 2mm), et nous avons obtenu
+        notre prix directement. Quelques jours plus tard, la plaque était prête, conforme à notre fichier.
+    </p>
+
+    <p class="paragraphe">Voici une photo de la plaque, venant juste d'être déballée :</p>
 
     <div class="text-center">
         <figure class="figure">
@@ -72,7 +88,7 @@
     </div>
 
     <p class="paragraphe">
-        <span class="badge badge-accent">houla</span> bla
+        Nous sommes parfaitement satisfaits par celle-ci, qui est tout à fait conforme avec notre fichier et notre idée de départ.
 	</p>
 
     <br/>
@@ -81,7 +97,13 @@
     <h3>Étape 1 : Fixation des cornières</h3>
     <br/>
 
-    <p class="paragraphe">bla rigidité</p>
+    <p class="paragraphe">
+        Etant donné les dimensions de notre plaque (assez grande pour une épaisseur fine), celle-ci risquait de se déformer légèrement si l'on place un poids lourd sur l'une des extrémités.
+    </p>
+    <p class="paragraphe">
+        Nous avons donc décidé d'installer des cornières tout autour afin de rigidifier la structure générale de notre galerie.
+        Pour ce faire, nous utilisons des cornières perforées de 22.5mm de côté par 1.2mm d'épaisseur. Voici le résultat une fois les cornières fixées :
+    </p>
 
     <div class="text-center">
         <figure class="figure">
@@ -94,7 +116,14 @@
     <h3>Étape 2 : Fixation de la galerie sur les barres de toit</h3>
     <br/>
 
-    <p class="paragraphe">Bla
+    <p class="paragraphe">
+        Maintenant que notre plaque est plus rigide, il est temps de passer à la fixation de celle-ci sur nos barres de toit. Pour réaliser cette opération, nous
+        avons vérifié que l'écart entre les deux barres correspond bien à l'écart entre les trous prévus dans la plaque, puis nous les avons percé aux bons endroits.
+    </p>
+
+    <p class="paragraphe">
+        Ensuite, nous sommes venus poser la galerie sur les barres, et nous avons fixé le tout avec des vis M8 et des écrous indesserables, pour éviter que les vibrations
+        ne viennent desserrer les écrous.
     </p>
 
     <div class="text-center">
@@ -104,11 +133,26 @@
         </figure>
     </div>
 
-    <p class="paragraphe">Bla</p>
+    <p class="paragraphe">
+        Nous avons aussi profité de la cornière perforée sur l'avant de la plaque pour y fixer quatre phares longue portée (pas encore câblés sur la photo), et nous
+        avons déporté l'antenne sur le côté droit de la plaque.
+    </p>
 
     <br/>
     <h2>Résultat</h2>
     <br/>
+
+    <p class="paragraphe">
+        Voici le résultat que nous avons obtenu une fois notre matériel fixé sur la galerie. Nous y avons attaché
+        deux roues de secours, un bidon d'essence dans une toile de jute et une boite à outils.
+    </p>
+    <p class="paragraphe">
+        Tous les éléments sont correctement fixés grâce à la présence des nombreux trous servant de points de fixation, la galerie est solide et ne plie pas malgré
+        le poids chargé.
+    </p>
+    <p class="paragraphe">
+        Voici des photos du résultat final :
+    </p>
 
     <div class="text-center">
         <figure class="figure">
