@@ -10,7 +10,7 @@
     <br/><br/>
     <p class="paragraphe">
         Afin de pouvoir transporter plus d'affaires facilement, nous avons rapidement réalisé qu'il serait nécessaire d'utiliser le toit de la voiture. Nous avons commencé par acquérir deux barres de toit
-        sur le marché de l'occasion, mais nous savions que nous allions y rajouter une galerie pour agrandir la surface de stockage utilisable.
+        sur le marché de l'occasion, mais nous savions que nous allions y rajouter une <b>galerie</b> pour agrandir la surface de stockage utilisable.
         Au départ, nous pensions acheter une galerie classique trouvable en occasion, puis nous nous sommes mis en quête de concevoir notre galerie sur mesure.
     </p>
 
@@ -26,7 +26,7 @@
     <br/>
 
     <p class="paragraphe">
-        Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les barres de toit. Nous avons donc
+        Pour déterminer la position des trous de fixation de la future galerie, nous sommes partis par les éléments que nous avions déjà : les <b>barres de toit</b>. Nous avons donc
         commencé par mesurer l'entraxe entre celles-ci pour déterminer la position des trous. Nous avons aussi mesuré la taille maximale possible que notre galerie pouvait mesurer, et nous avons
         décidé ensuite de réaliser une galerie de 1200mm x 1000mm.
     </p>
@@ -37,7 +37,7 @@
 	</p>
 
     <p class="paragraphe">
-        Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des sangles de différentes manières pour fixer de manière convenable nos équipements.
+        Nous avons également décidé de placer des trous oblongs à intervalles réguliers dans le but de pouvoir y passer des <b>sangles</b> de différentes manières pour fixer de manière convenable nos équipements.
         De la même manière, afin d'améliorer la rigidité de notre galerie, nous avons prévu de mettre des cornières perforées, permettant de solidifier la plaque et d'offrir des fixations supplémentaires. Nous prévoyons des trous
         réguliers tout le long des bords de notre galerie pour les fixer.
     </p>
@@ -48,7 +48,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/mep-galerie.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan galerie">
+            <img loading="lazy" src="/images/galerie/mep-galerie.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan galerie">
             <figcaption class="figure-caption text-right text-light">Mise en plan de la galerie</figcaption>
         </figure>
     </div>
@@ -57,7 +57,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/mep-oblongs.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan détail oblong">
+            <img loading="lazy" src="/images/galerie/mep-oblongs.png" class="figure-img img-fluid rounded" style="width: 80%;" alt="Mise en plan détail oblong">
             <figcaption class="figure-caption text-right text-light">Détail A : oblongs</figcaption>
         </figure>
     </div>
@@ -67,14 +67,14 @@
     <br/>
 
     <p class="paragraphe">
-        Une fois notre plan réalisé, nous l'avons édité sur un logiciel de CAO (dans notre cas, Fusion360) pour en sortir un fichier DXF, adapté à la découpe.
+        Une fois notre plan réalisé, nous l'avons édité sur un logiciel de CAO (dans notre cas, Fusion360) pour en sortir un fichier <b>DXF</b>, adapté à la découpe.
     </p>
     <p class="paragraphe">
         C'est à ce moment que notre partenaire <a target="_blank" class="link" href="https://john-steel.com/">John-Steel</a> est entré en jeu. John-Steel est un site
         de découpe sur-mesure de métal et de bois, permettant aux particuliers de déposer leur fichier DXF ou d'utiliser l'éditeur en ligne pour concevoir leurs pièces
         et obtenir un prix en temps direct.
     </p>
-    <p class="paragraphe">Nous avons donc envoyé notre fichier DXF sur le site John-Steel, puis avons sélectionné la matière souhaitée (Inox 304L en épaisseur 2mm), et nous avons obtenu
+    <p class="paragraphe">Nous avons donc envoyé notre fichier DXF sur le site John-Steel, puis avons sélectionné la matière souhaitée (<b>Inox 304L</b> en épaisseur 2mm), et nous avons obtenu
         notre prix directement. Quelques jours plus tard, la plaque était prête, conforme à notre fichier.
     </p>
 
@@ -82,7 +82,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/roofrack-1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Plaque découpée">
+            <img loading="lazy" src="/images/galerie/roofrack-1.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Plaque découpée">
             <figcaption class="figure-caption text-right text-light">Plaque découpée</figcaption>
         </figure>
     </div>
@@ -107,7 +107,7 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/roofrack-2.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Cornières fixées">
+            <img loading="lazy" src="/images/galerie/roofrack-2.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Cornières fixées">
             <figcaption class="figure-caption text-right text-light">Cornières fixées sur la galerie</figcaption>
         </figure>
     </div>
@@ -128,13 +128,13 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/roofrack-3.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie fixée">
+            <img loading="lazy" src="/images/galerie/roofrack-3.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie fixée">
             <figcaption class="figure-caption text-right text-light">Galerie fixée sur les barres de toit</figcaption>
         </figure>
     </div>
 
     <p class="paragraphe">
-        Nous avons aussi profité de la cornière perforée sur l'avant de la plaque pour y fixer quatre phares longue portée (pas encore câblés sur la photo), et nous
+        Nous avons aussi profité de la cornière perforée sur l'avant de la plaque pour y fixer quatre <b>phares longue portée</b> (pas encore câblés sur la photo), et nous
         avons déporté l'antenne sur le côté droit de la plaque.
     </p>
 
@@ -156,14 +156,14 @@
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/roofrack-4.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie en place">
+            <img loading="lazy" src="/images/galerie/roofrack-4.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie en place">
             <figcaption class="figure-caption text-right text-light">Résultat (galerie chargée)</figcaption>
         </figure>
     </div>
 
     <div class="text-center">
         <figure class="figure">
-            <img loading="lazy" src="/images/roofrack/roofrack-5.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie en place">
+            <img loading="lazy" src="/images/galerie/roofrack-5.jpg" class="figure-img img-fluid rounded" style="width: 80%;" alt="Galerie en place">
             <figcaption class="figure-caption text-right text-light">Résultat (voiture complète)</figcaption>
         </figure>
     </div>

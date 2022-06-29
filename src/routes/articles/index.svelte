@@ -4,7 +4,7 @@
     let miniatureJantes = "images/wheels_repair/miniature.jpg"
     let miniatureFreins = "images/brakes_replacement/miniature.jpg"
     let miniatureBumper = "images/bumper_supports/miniature.jpg";
-    let miniatureRoofrack = "images/roofrack/miniature.jpg";
+    let miniatureRoofrack = "images/galerie/miniature.jpg";
 </script>
 
 <svelte:head>
@@ -80,7 +80,7 @@
                             <h5 class="card-title">Galerie de toit</h5>
                             <p class="card-text card-article-short">Nous avons conçu notre galerie de toit sur mesure en inox pour transporter nos affaires.</p>
                             <div class="row mx-auto d-block">
-                                <a sveltekit:prefetch href="/articles/roofrack/" class="btn card-article-btn">Lire</a>
+                                <a sveltekit:prefetch href="/articles/galerie/" class="btn card-article-btn">Lire</a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                     <h5 class="card-title">Galerie de toit</h5>
                     <p class="card-text card-article-short">Nous avons conçu notre galerie de toit sur mesure en inox pour transporter nos affaires.</p>
                     <div class="row mx-auto d-block">
-                        <a sveltekit:prefetch href="/articles/roofrack/" class="btn card-article-btn">Lire</a>
+                        <a sveltekit:prefetch href="/articles/galerie/" class="btn card-article-btn">Lire</a>
                     </div>
                 </div>
             </div>
