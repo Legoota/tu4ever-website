@@ -1,5 +1,6 @@
 <script context="module">
 	import DeviceDetector from "svelte-device-detector";
+	import Youtube from "svelte-youtube-embed";
 	export const prerender = true;
 	import './sitemap.xml.js';
 
@@ -65,8 +66,8 @@
 						</li>
 					</ul>
 				</div>
-				<div class="col">
-					<img src="images/205.png" class="img-fluid rounded img-fit" alt="Car">
+				<div class="col youtube-alpina">
+					<Youtube id="V7fG8VPShmg" />
 				</div>
 			</div>
 		</DeviceDetector>
@@ -86,7 +87,9 @@
 						Un espace <a sveltekit:prefetch href="/partenariats/">Partenariats</a> dédié aux sponsors de l'aventure.
 					</li>
 				</ul>
-				<img src="images/205.png" class="img-fluid rounded img-fit" alt="Car">
+				<div class="youtube-alpina">
+					<Youtube id="V7fG8VPShmg" />
+				</div>
 			</div>
 		</DeviceDetector>
 	</div>
@@ -106,6 +109,10 @@
 
 	.img-fit {
 		object-fit: contain;
+	}
+
+	.youtube-alpina :global(iframe) {
+		min-height: 22em;
 	}
 
 </style>
