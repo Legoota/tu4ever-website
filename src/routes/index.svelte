@@ -1,6 +1,5 @@
 <script context="module">
 	import DeviceDetector from "svelte-device-detector";
-	import Youtube from "svelte-youtube-embed";
 	export const prerender = true;
 	import './sitemap.xml.js';
 
@@ -66,8 +65,13 @@
 						</li>
 					</ul>
 				</div>
-				<div class="col youtube-alpina">
-					<Youtube id="V7fG8VPShmg" />
+				<div class="col container-youtube">
+					<a class="youtube-link-anchor" href="https://www.youtube.com/watch?v=V7fG8VPShmg" target="_blank">
+						<img src="images/thumbnail.png" class="img-fluid rounded img-fit youtube-link" alt="Vidéo récap youtube">
+						<div class="centered">
+							Voir sur Youtube
+						</div>
+					</a>
 				</div>
 			</div>
 		</DeviceDetector>
@@ -87,9 +91,9 @@
 						Un espace <a sveltekit:prefetch href="/partenariats/">Partenariats</a> dédié aux sponsors de l'aventure.
 					</li>
 				</ul>
-				<div class="youtube-alpina">
-					<Youtube id="V7fG8VPShmg" />
-				</div>
+				<a class="youtube-link-anchor" href="https://www.youtube.com/watch?v=V7fG8VPShmg" target="_blank">
+					<img src="images/thumbnail.png" class="img-fluid rounded img-fit youtube-link" alt="Vidéo récap youtube">
+				</a>
 			</div>
 		</DeviceDetector>
 	</div>
@@ -111,8 +115,45 @@
 		object-fit: contain;
 	}
 
-	.youtube-alpina :global(iframe) {
-		min-height: 22em;
+	.container-youtube {
+		position: relative;
 	}
+
+	.container-youtube:hover {
+		transform: scale(1.01);
+		cursor: pointer;
+		transition: all .2s ease-in-out;
+	}
+
+	.youtube-link {
+		box-shadow: 2px 2px 5px black;
+		transition: all .2s ease-in-out;
+	}
+
+	.youtube-link:hover {
+		box-shadow: 4px 4px 5px black;
+		transition: all .2s ease-in-out;
+	}
+
+	.centered {
+		position: absolute;
+		opacity: 0;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		color: white;
+		background-color: rgb(255, 0, 0);
+		padding: 1em;
+		border-radius: 2em;
+		font-size: larger;
+		transition: all .2s ease-in-out;
+	}
+
+	.container-youtube:hover .centered {
+		opacity: 1;
+		transition: all .2s ease-in-out;
+	}
+
+
 
 </style>
